@@ -1,0 +1,700 @@
+Guide: To Know Of how to generate code is
+
+type in /item and then type the item group and index
+and the level and level skill = 1 or 0. luck = 1 or 0. this "1" is i dont know yet. and next 7 i dont know. option 63 or 32 or etc,...
+
+so i combine them /item 32 10 13 1 1 1 7 63 = exc light saber + Full opt + Luck+Skill!!
+
+Great Dragon SET
+
+/item 5 12 13 7 7 7 7 7 7
+/item 7 21 13 7 7 7 7 7
+/item 8 21 13 7 7 7 7 7
+/item 9 21 13 7 7 7 7 7
+/item 10 21 13 7 7 7 7 7
+
+Dark Phoenix Set:
+Sword: /item 0 22 13 7 7 7 7 7 7 7 7 7 7
+Helm: /item 7 17 13 7 7 7 7 7 7 7
+Armor: /item 8 17 13 7 7 7 7 7 7 7 7 7 7
+Pants : /item 9 17 13 7 7 7 7 7 7 7 7
+Gloves: /item 10 17 13 7 7 7 7 7 7 7 7 7
+Boots: /item 11 17 13 7 7 7 7 7 7 7 7 7 7 7
+
+
+
+AshCrow: Fullopt+13 Exc + Full opt but not +13.
+Helm:/item 7 34 13 1 1 1 7 63 /item 7 34 13 1 1 1 7 63
+Armor:/item 8 34 13 1 1 1 7 63 /item 8 34 1 1 1 1 7 63
+Gloves:/item 9 34 13 1 1 1 7 63 /item 9 34 1 1 1 1 7 63
+Pants:/item 11 31 13 1 1 1 7 63 /item 11 34 1 1 1 1 7 63
+Boots:/item 10 34 13 1 1 1 7 63 /item 10 34 1 1 1 1 7 63
+__________________________________________
+
+Sword:/item 0 20 13 1 1 1 7 63 /item 0 20 1 1 1 1 7 63
+Sword: /item 0 22 13 1 1 1 7 63 /item 0 22 1 1 1 1 7 63
+
+
+Weapons:
+
+Explosion Blade = /item 0 23 13 1 1 1 7 63
+BoneBlade = /item 0 22 13 1 1 1 7 63
+SwordDancer= /item 0 25 13 1 1 1 7 63
+DayBreak= /item 0 24 13 1 1 1 7 63
+Black Reign Blade= /item 0 21 13 1 1 1 7 63
+Knight Blade /item 0 20 13 1 1 1 7 63
+Sword Of Archangel = /item 0 19 13 1 1 1 7 63
+ThunderBlade=/item 0 18 13 1 1 1 7 63
+
+
+
+
+
+
+=====================================================================================
+Item group:0
+Item tipe:Sword
+Index Level Skill Luck Option Exellent option
+0 13 1 1 7 32 "Kris" 
+1 13 1 1 7 32 "Short Sword" 
+2 13 1 1 7 32 "Rapier" 
+3 13 1 1 7 32 "Katana" 
+4 13 1 1 7 32 "Sword of Assassin" 
+5 13 1 1 7 32 "Blade" 
+6 13 1 1 7 32 "Gladius" 
+7 13 1 1 7 32 "Falchion" 
+8 13 1 1 7 32 "Serpent Sword" 
+9 13 1 1 7 32 "Salamander" 
+10 13 1 1 7 32 "Light Saber" 
+11 13 1 1 7 32 "Legendary Sword" 
+12 13 1 1 7 32 "Helical Sword" 
+13 13 1 1 7 32 "Double Blade" 
+14 13 1 1 7 32 "Lightning Sword" 
+15 13 1 1 7 32 "Giant Sword" 
+16 13 1 1 7 32 "Sword of Destruction" 
+17 13 1 1 7 32 "Spirit Sword" 
+18 13 1 1 7 32 "Thunder Blade" 
+19 13 1 1 7 32 "Sword of Archangel" 
+20 13 1 1 7 32 "Knight Blade" 
+21 13 1 1 7 32 "Black Reign Blade" 
+22 13 1 1 7 32 "Bone Blade" 
+23 13 1 1 7 32 "Explosion Blade" 
+24 13 1 1 7 32 "DayBreak" 
+25 13 1 1 7 32 "Sword Dancer" 
+31 13 1 1 7 32 "Rune Blade" 
+end
+
+
+
+
+
+
+======================================================================================
+Item group:2
+Item tipe:Scepter
+Index Level Skill Luck Option Exellent option
+8 13 1 1 7 32 "Battle Scepter" 
+9 13 1 1 7 32 "Master Scepter" 
+10 13 1 1 7 32 "Great Scepter" 
+11 13 1 1 7 32 "Lord Scepter" 
+12 13 1 1 7 32 "Great Lord Scepter" 
+13 13 1 1 7 32 "Scepter of Archangel" 
+14 13 1 1 7 32 "Solay Scepter" 
+15 13 1 1 7 32 "Shining Scepter" 
+end
+======================================================================================
+Item group:3
+Item tipe:Spear
+Index Level Skill Luck Option Exellent option
+8 13 1 1 7 32 "Great Scythe" 
+9 13 1 1 7 32 "Bill of Balrog" 
+10 13 1 1 7 32 "Dragon Spear" 
+end
+======================================================================================
+Itemgroup:4
+Item tipe:Bow&Crossbow
+Index Level Skill Luck Option Exellent option
+0 13 1 1 7 32 "Short Bow" 
+1 13 1 1 7 32 "Bow" 
+2 13 1 1 7 32 "Elven Bow" 
+3 13 1 1 7 32 "Battle Bow" 
+4 13 1 1 7 32 "Tiger Bow" 
+5 13 1 1 7 32 "Silver Bow" 
+6 13 1 1 7 32 "Chaos Nature Bow"
+7 13 1 1 7 32 "Bolt" 
+8 13 1 1 7 32 "Crossbow" 
+9 13 1 1 7 32 "Golden Crossbow" 
+10 13 1 1 7 32 "Arquebus" 
+11 13 1 1 7 32 "Light Crossbow" 
+12 13 1 1 7 32 "Serpent Crossbow" 
+13 13 1 1 7 32 "Bluewing Crossbow"
+14 13 1 1 7 32 "Aquagold Crossbow"
+15 13 1 1 7 32 "Arrows" 
+16 13 1 1 7 32 "Saint Crossbow" 
+17 13 1 1 7 32 "Celestial Bow" 
+18 13 1 1 7 32 "Crossbow of Archangel" 
+19 13 1 1 7 32 "Great Reign Crossbow" 
+20 13 1 1 7 32 "Arrow Viper Bow" 
+21 13 1 1 7 32 "Sylph Wind Bow" 
+22 13 1 1 7 32 "Albatross Bow" 
+end
+
+
+Albatross Bow = /item 4 22 13 1 1 1 7 63 ----> /item 4 22 1 1 1 1 7 63
+Sylph Wind Bow = /item 4 21 13 1 1 1 7 63
+Arrow Viper Bow = /item 4 20 13 1 1 1 7 63
+Great Reign Crossbow = /item 4 19 13 1 1 1 7 63
+Celestial Bow = /item 4 17 13 1 1 1 7 63
+
+=======================================================================================
+Item group:5
+Item tipe:Staff
+Index Level Skill Luck Option Exellent option
+0 13 0 13 7 32 "Skull Staff" 
+1 13 0 13 7 32 "Angelic Staff" 
+2 13 0 13 7 32 "Serpent Staff" 
+3 13 0 13 7 32 "Thunder Staff" 
+4 13 0 13 7 32 "Gorgon Staff" 
+5 13 0 13 7 32 "Legendary Staff" 
+6 13 0 13 7 32 "Staff of Destruction" 
+7 13 0 13 7 32 "Chaos Lightning Staff" 
+8 13 0 13 7 32 "Staff of Destruction"
+9 13 0 13 7 32 "Dragon Soul Staff" 
+10 13 0 13 7 32 "Staff of Archangel" 
+11 13 0 13 7 32 "Kundun Staff" 
+12 13 0 13 7 32 "Grand Viper Staff" 
+13 13 0 13 7 32 "Platina Wing Staff"
+end
+
+
+Grand Viper Staff= /item 5 12 13 7 7 7 7 7
+Platina Staff = 5 13 7 7 7 7 7 7 7 7 7 7 7
+Kundun Staff = /item 5 11 7 7 7 7 7 7 7
+Dragon Soul Staff = /item 5 9 13 7 7 7 7 7 7 7 7 7 7 7 7
+=======================================================================================
+Item group:6
+Item tipe:Shields
+Index Level Skill Luck Option Exellent option
+6 13 1 1 7 32 "Skull Shield"
+13 13 1 1 7 32 "Chaos Dragon Shield"
+14 13 1 1 7 32 "Legendary Shield"
+15 13 1 1 7 32 "Grand Soul Shield"
+end
+
+Grand soul Shield = /item 6 15 13 7 7 7 7 7 7
+Legendary Soul Shield = /item 6 14 13 7 7 7 7 7 7 7 7 7 7
+Chaos Dragon shield = /item 6 13 13 7 7 7 7 7 7 7 7 7
+
+=======================================================================================
+Item group:7
+Item tipe:Helm
+Elf:
+Index Level Skill Luck Option Exellent option
+10 13 0 1 7 32 "Vine"
+11 13 0 1 7 32 "Silk"
+12 13 0 1 7 32 "Wind"
+13 13 0 1 7 32 "Spirit"
+14 13 0 1 7 32 "Guardian"
+19 13 0 1 7 32 "Divine" 
+24 13 0 1 7 32 "Red Spirit"
+31 13 0 1 7 32 "Sylpid Ray"
+36 13 0 1 7 32 "Iris"
+
+
+
+/item 7 31 13 1 1 1 7 63
+
+
+Knight:
+0 13 0 1 7 32 "Bronze"
+1 13 0 1 7 32 "Dragon"
+5 13 0 1 7 32 "Leather"
+6 13 0 1 7 32 "Scale"
+8 13 0 1 7 32 "Brass"
+9 13 0 1 7 32 "Plate"
+16 13 0 1 7 32 "Black Dragon"
+17 13 0 1 7 32 "Dark Phoenix"
+21 13 0 1 7 32 "Great Dragon"
+29 13 0 1 7 32 "Dragon Knight"
+34 13 0 1 7 32 "Ashcrow"
+
+Ashcrow Armor = /item 7 34 13 1 1 1 7 63
+
+
+/item 7 17 13 7 7 7 7 7 7 7
+
+
+
+
+
+Wizard:
+2 13 0 1 7 32 "Pad"
+3 13 0 1 7 32 "Legendary"
+4 13 0 1 7 32 "Bone" 
+7 13 0 1 7 32 "Sphinx"
+18 13 0 1 7 32 "Grand Soul"
+22 13 0 1 7 32 "Dark Soul"
+30 13 0 1 7 32 "Venom Mist"
+35 13 0 1 7 32 "Eclipse"
+Gladiator:
+N/A
+Lord:
+25 13 0 1 7 32 "Light Plate"
+26 13 0 1 7 32 "Adamantine"
+27 13 0 1 7 32 "Dark Steel"
+28 13 0 1 7 32 "Dark Master"
+33 13 0 1 7 32 "Sunlight" 
+38 13 0 1 7 32 "Glorious"
+end
+
+
+/item 7 21 13 7 7 7 7 7
+
+venom mist = /item 7 30 13 7 7 7 7 7
+
+
+
+
+========================================================================================
+Item group:8
+Item tipe:Armor
+Elf:
+Index Level Skill Luck Option Exellent option
+10 13 0 1 7 32 "Vine"
+11 13 0 1 7 32 "Silk"
+12 13 0 1 7 32 "Wind"
+13 13 0 1 7 32 "Spirit"
+14 13 0 1 7 32 "Guardian"
+19 13 0 1 7 32 "Divine" 
+24 13 0 1 7 32 "Red Spirit"
+31 13 0 1 7 32 "Sylpid Ray"
+36 13 0 1 7 32 "Iris"
+
+/item 8 31 13 1 1 1 7 63
+
+
+
+
+/item
+
+
+
+Knight:
+0 13 0 1 7 32 "Bronze"
+1 13 0 1 7 32 "Dragon"
+5 13 0 1 7 32 "Leather"
+6 13 0 1 7 32 "Scale"
+8 13 0 1 7 32 "Brass"
+9 13 0 1 7 32 "Plate"
+16 13 0 1 7 32 "Black Dragon"
+17 13 0 1 7 32 "Dark Phoenix"
+21 13 0 1 7 32 "Great Dragon"
+29 13 0 1 7 32 "Dragon Knight"
+34 13 0 1 7 32 "Ashcrow"
+
+/item 8 34 13 1 1 1 7 63
+
+
+/item 8 17 13 7 7 7 7 7 7 7 7 7 7
+
+Wizard:
+2 13 0 1 7 32 "Pad"
+3 13 0 1 7 32 "Legendary"
+4 13 0 1 7 32 "Bone" 
+7 13 0 1 7 32 "Sphinx"
+18 13 0 1 7 32 "Grand Soul"
+22 13 0 1 7 32 "Dark Soul"
+30 13 0 1 7 32 "Venom Mist"
+35 13 0 1 7 32 "Eclipse"
+Gladiator:
+15 13 0 1 7 32 "Storm Crow"
+20 13 0 1 7 32 "Thunder Hawk"
+23 13 0 1 7 32 "Hurricane"
+32 13 0 1 7 32 "Volcano"
+Lord:
+25 13 0 1 7 32 "Light Plate"
+26 13 0 1 7 32 "Adamantine"
+27 13 0 1 7 32 "Dark Steel"
+28 13 0 1 7 32 "Dark Master"
+33 13 0 1 7 32 "Sunlight" 
+38 13 0 1 7 32 "Glorious"
+end
+
+
+
+/item 8 21 13 7 7 7 7 7
+
+Venom mist = /item 8 30 13 7 7 7 7 7
+
+
+
+
+
+========================================================================================
+Item group:9
+Item tipe:Pants
+Elf:
+Index Level Skill Luck Option Exellent option
+10 13 0 1 7 32 "Vine"
+11 13 0 1 7 32 "Silk"
+12 13 0 1 7 32 "Wind"
+13 13 0 1 7 32 "Spirit"
+14 13 0 1 7 32 "Guardian"
+19 13 0 1 7 32 "Divine" 
+24 13 0 1 7 32 "Red Spirit"
+31 13 0 1 7 32 "Sylpid Ray"
+36 13 0 1 7 32 "Iris"
+
+
+
+/item 9 31 13 1 1 1 7 63
+
+
+
+Knight:
+0 13 0 1 7 32 "Bronze"
+1 13 0 1 7 32 "Dragon"
+5 13 0 1 7 32 "Leather"
+6 13 0 1 7 32 "Scale"
+8 13 0 1 7 32 "Brass"
+9 13 0 1 7 32 "Plate"
+16 13 0 1 7 32 "Black Dragon"
+17 13 0 1 7 32 "Dark Phoenix"
+21 13 0 1 7 32 "Great Dragon"
+29 13 0 1 7 32 "Dragon Knight"
+34 13 0 1 7 32 "Ashcrow"
+
+/item 9 34 13 1 1 1 7 63
+
+
+/item 9 17 13 7 7 7 7 7 7 7 7
+
+
+
+
+
+Wizard:
+2 13 0 1 7 32 "Pad"
+3 13 0 1 7 32 "Legendary"
+4 13 0 1 7 32 "Bone" 
+7 13 0 1 7 32 "Sphinx"
+18 13 0 1 7 32 "Grand Soul"
+22 13 0 1 7 32 "Dark Soul"
+30 13 0 1 7 32 "Venom Mist"
+35 13 0 1 7 32 "Eclipse"
+Gladiator:
+15 13 0 1 7 32 "Storm Crow"
+20 13 0 1 7 32 "Thunder Hawk"
+23 13 0 1 7 32 "Hurricane"
+32 13 0 1 7 32 "Volcano"
+Lord:
+25 13 0 1 7 32 "Light Plate"
+26 13 0 1 7 32 "Adamantine"
+27 13 0 1 7 32 "Dark Steel"
+28 13 0 1 7 32 "Dark Master"
+33 13 0 1 7 32 "Sunlight" 
+38 13 0 1 7 32 "Glorious"
+end
+
+
+Venom Mist = /item 9 30 13 7 7 7 7 7
+
+
+/item 9 21 13 7 7 7 7 7
+
+
+
+
+========================================================================================
+Item group:10
+Item tipe:Gloves
+Elf:
+Index Level Skill Luck Option Exellent option
+10 13 0 1 7 32 "Vine"
+11 13 0 1 7 32 "Silk"
+12 13 0 1 7 32 "Wind"
+13 13 0 1 7 32 "Spirit"
+14 13 0 1 7 32 "Guardian"
+19 13 0 1 7 32 "Divine" 
+24 13 0 1 7 32 "Red Spirit"
+31 13 0 1 7 32 "Sylpid Ray"
+36 13 0 1 7 32 "Iris"
+
+/item 10 31 13 1 1 1 7 63
+
+Knight:
+0 13 0 1 7 32 "Bronze"
+1 13 0 1 7 32 "Dragon"
+5 13 0 1 7 32 "Leather"
+6 13 0 1 7 32 "Scale"
+8 13 0 1 7 32 "Brass"
+9 13 0 1 7 32 "Plate"
+16 13 0 1 7 32 "Black Dragon"
+17 13 0 1 7 32 "Dark Phoenix"
+21 13 0 1 7 32 "Great Dragon"
+29 13 0 1 7 32 "Dragon Knight"
+34 13 0 1 7 32 "Ashcrow"
+
+
+/item 10 34 13 1 1 1 7 63
+
+/item 10 17 13 7 7 7 7 7 7 7 7 7
+
+
+
+
+Wizard:
+2 13 0 1 7 32 "Pad"
+3 13 0 1 7 32 "Legendary"
+4 13 0 1 7 32 "Bone" 
+7 13 0 1 7 32 "Sphinx"
+18 13 0 1 7 32 "Grand Soul"
+22 13 0 1 7 32 "Dark Soul"
+30 13 0 1 7 32 "Venom Mist"
+35 13 0 1 7 32 "Eclipse"
+Gladiator:
+15 13 0 1 7 32 "Storm Crow"
+20 13 0 1 7 32 "Thunder Hawk"
+23 13 0 1 7 32 "Hurricane"
+32 13 0 1 7 32 "Volcano"
+Lord:
+25 13 0 1 7 32 "Light Plate"
+26 13 0 1 7 32 "Adamantine"
+27 13 0 1 7 32 "Dark Steel"
+28 13 0 1 7 32 "Dark Master"
+33 13 0 1 7 32 "Sunlight" 
+38 13 0 1 7 32 "Glorious"
+end
+
+
+Venom mist Gloves = /item 10 30 13 7 7 7 7 7 7 7 7 7 7
+
+
+
+/item 10 21 13 7 7 7 7 7
+
+
+
+
+========================================================================================
+Item group:11
+Item tipe:Boots
+Elf:
+Index Level Skill Luck Option Exellent option
+10 13 0 1 7 32 "Vine"
+11 13 0 1 7 32 "Silk"
+12 13 0 1 7 32 "Wind"
+13 13 0 1 7 32 "Spirit"
+14 13 0 1 7 32 "Guardian"
+19 13 0 1 7 32 "Divine" 
+24 13 0 1 7 32 "Red Spirit"
+31 13 0 1 7 32 "Sylpid Ray"
+36 13 0 1 7 32 "Iris"
+
+/item 11 31 13 1 1 1 7 63
+/item 10 34 13 1 1 1 7 63
+
+Knight:
+0 13 0 1 7 32 "Bronze"
+1 13 0 1 7 32 "Dragon"
+5 13 0 1 7 32 "Leather"
+6 13 0 1 7 32 "Scale"
+8 13 0 1 7 32 "Brass"
+9 13 0 1 7 32 "Plate"
+16 13 0 1 7 32 "Black Dragon"
+17 13 0 1 7 32 "Dark Phoenix"
+21 13 0 1 7 32 "Great Dragon"
+29 13 0 1 7 32 "Dragon Knight"
+34 13 0 1 7 32 "Ashcrow"
+
+/item 11 34 13 1 1 1 7 63
+
+
+
+/item 11 17 13 7 7 7 7 7 7 7 7 7 7 7
+
+
+
+
+Wizard:
+2 13 0 1 7 32 "Pad"
+3 13 0 1 7 32 "Legendary"
+4 13 0 1 7 32 "Bone" 
+7 13 0 1 7 32 "Sphinx"
+18 13 0 1 7 32 "Grand Soul"
+22 13 0 1 7 32 "Dark Soul"
+30 13 0 1 7 32 "Venom Mist"
+35 13 0 1 7 32 "Eclipse"
+Gladiator:
+15 13 0 1 7 32 "Storm Crow"
+20 13 0 1 7 32 "Thunder Hawk"
+23 13 0 1 7 32 "Hurricane"
+32 13 0 1 7 32 "Volcano"
+Lord:
+25 13 0 1 7 32 "Light Plate"
+26 13 0 1 7 32 "Adamantine"
+27 13 0 1 7 32 "Dark Steel"
+28 13 0 1 7 32 "Dark Master"
+33 13 0 1 7 32 "Sunlight" 
+38 13 0 1 7 32 "Glorious"
+end
+
+
+Venom mist Boots = /item 11 30 13 7 7 7 7 7 7 7 7 7 7
+
+
+
+
+/item 11 21 13 7 7 7 7 7
+
+
+
+
+
+
+
+
+========================================================================================
+Item group:12
+Item tipe:Wings
+Elf:
+Index Level Skill Luck Option Exellent option
+0 15 0 1 7 0 "Wing of Fairy"
+3 15 0 1 7 32 "Wing of Spirit"
+38 15 0 1 7 32 "Wings of Illusion"
+Kinght:
+2 15 0 1 7 0 "Wing of Satan" 
+5 15 0 1 7 32 "Wing of Devil"
+36 15 0 1 7 32 "Wings of Storm"
+Wizard:
+1 15 0 1 7 0 "Wing of Angel"
+4 15 0 1 7 32 "Wing of Soul"
+37 15 0 1 7 32 "Wings of Space-Time"
+Gladiator:
+6 15 0 1 7 32 "Wing of Darkness"
+39 15 0 1 7 32 "Wings of Hurricane"
+Lord:
+30 15 0 1 7 32 "Cape of Lord"
+40 15 0 1 7 32 "Mantle of Monarch"
+end
+
+mantle of monarch - /item 12 40 13 1 1 1 7 63
+
+Wings Of Storm - /item 12 36 13 1 1 1 7 63
+
+Wings of Hurricane - /item 12 39 13 1 1 1 7 63
+
+Wings of Space Time - /item 12 37 13 1 1 7 63
+
+Wings of Illusion - /item 12 38 13 1 1 7 63
+
+
+
+
+
+
+========================================================================================
+Item group:14
+Item tipe:MISC
+Index Level Skill Luck Option Exellent option
+11 12 0 0 0 0 "Box of Kundun+5"
+11 11 0 0 0 0 "Box of Kundun+4"
+11 10 0 0 0 0 "Box of Kundun+3"
+11 9 0 0 0 0 "Box of Kundun+2"
+11 8 0 0 0 0 "Box of Kundun+1"
+13 0 0 0 0 0 "Jewel of Bless"
+14 0 0 0 0 0 "Jewel of Soul" 
+16 0 0 0 0 0 "Jewel of Life" 
+22 0 0 0 0 0 "Jewel of Creation"
+31 0 0 0 0 0 "Jewel of Guardian"
+42 0 0 0 0 0 "Jewel of Harmony"
+41 0 0 0 0 0 "Gemstone"
+44 0 0 0 0 0 "Higher Refining Stone"
+28 1 0 0 0 0 "Lost Map+1"
+28 2 0 0 0 0 "Lost Map+2"
+28 3 0 0 0 0 "Lost Map+3"
+28 4 0 0 0 0 "Lost Map+4"
+28 5 0 0 0 0 "Lost Map+5"
+28 6 0 0 0 0 "Lost Map+6"
+28 7 0 0 0 0 "Lost Map+7"
+end
+
+
+
+
+/item 14 44
+
+/item 14 42 = Harmony
+
+/item 14 41 = Gemstone
+
+/item 14 22 = Creation
+
+/item 14 28 = Lost map +7 
+
+
+
+
+========================================================================================
+Item group:20
+Item tipe:DL Scrools
+Index 
+21 "Scroll of FireBurst"
+22 "Scroll of Summon"
+23 "Scroll of Critical Damage"
+24 "Scroll of Elect Spark" 
+35 "Scroll of Fire Scream" 
+end
+========================================================================================
+Item group:13
+Item tipe:DW/SM/MG Scroll
+0 "Scroll of Poison"
+1 "Scroll of Meteorite" 
+2 "Scroll of Lighting" 
+3 "Scroll of Fire Ball" 
+4 "Scroll of Flame" 
+5 "Scroll of Teleport"
+6 "Scroll of Ice" 
+7 "Scroll of Twister" 
+8 "Scroll of Evil Spirit" 
+9 "Scroll of Hellfire" 
+10 "Scroll of Power Wave" 
+11 "Scroll of Aqua Beam" 
+12 "Scroll of Cometfall" 
+13 "Scroll of Inferno" 
+14 "Scroll of Teleport"
+15 "Scroll of Soul Barrier" 
+16 "Scroll of Decay" 
+17 "Scroll of Ice Storm" 
+18 "Scroll of Nova" 
+end
+========================================================================================
+Item group:12
+Item tipe:DK/Elf/MG Orbs/Jawel Of Chaos
+Index
+7 "Orb of Twisting Slash" 
+8 "Healing Orb" 
+9 "Orb of Great Defense" 
+10 "Orb of Greater Damage" 
+11 "Orb of Summoning" 
+12 "Orb of Rageful Blow" 
+13 "Orb of Impale" 
+14 "Orb of Great Fortitude" 
+16 "Orb of Fire Slash" 
+17 "Orb of Penetration" 
+18 "Orb of Ice Arrow" 
+19 "Orb of Death Stab"
+15 "Jewel of Chaos"
+
+
+/item 12 15
+
+
+______________=======================================
+
+
+/item 12 40 13(how much +13) 1(skill on) 1(luck on) 1(dont know) 7(add) 63(exe option for full option)
+
+for "Mantle of Monarch" + 13 +FO write 
+
+/item 12 40 13 1 1 1 7 63

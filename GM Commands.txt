@@ -52,5 +52,96 @@ MoveCMD						= /move
 ; [GM_ONLY_COMMAND] Allows to relocate specified guild to specified destination, requires GM privileges
 ; usage: /gmove <guild_name> <map_number> <cord_x> <cord_y>
 MoveGuild					= /gmove
+
 ; [GM_ONLY_COMMAND] Allow to drop item in game, requires Administrator (ctlcode = 32) and privileges to use Item Drop command
 ; usage: /item <item_group> <item_index> <item_level> <skill> <luck> <option> <exc> <setitem> <periodtime> <socketslot> <socketbonus/attribute> <muunevolutionitemcat> <muunevolutionitemindex>
+
+=====================================================================================
+GAME MASTER COMMAND'S
+=====================================================================================
+/move <nick> map x y Move player to the specified map at coords. x,y
+/chaton <nick> Enable chat for that player
+/chatoff <nick> Disable chat for that player
+/trace <nick> Warp to the map and coords. of the specified player
+/track <nick>
+/disconnect <nick> Disconnect a player
+/dc <nick>
+/pk <nick> Makes PK a player
+/pkclear <nick> Clear PK status of the specified player
+/fire Showing firecracker effect
+/reload 0 = Options
+1 = Monster.txt & Monstersetbase.txt
+2 = Shops
+3 = Events
+4 = Misc. options & MY NEW commonserver.cfg options
+
+/drop A B C D E F G
+A = Item group (read Items.txt)
+B = Item sub-index (read Items.txt)
+C = Level (from 0 to 13)
+D = Skill (0 or 1)
+E = Luck (0 or 1)
+F = Option (0 to 7)
+G = Excellent option
+
+Sum these numbers:
+1 = Mana recovery after monster hunt +mana/8
+2 = Health recovery after monster hunt +HP/8
+4 = +7 Speed
+8 = More damage +2%
+16 = More damage +level/20
+32 = Excellent damage rate +10%
+_____________________________________
+
+
+GM Commands
+
+/move Name MapNumber XX YY
+
+Moves a user to the location you specify. Move commands (single and guild) can take several seconds to work.
+
+/Disconnect Name
+
+Disconnects a user.
+
+/DisableChat Name
+
+Muzzles a user - they are unable to speak, normally or in PM, until you unmuzzle them or they re-enter the game.
+
+/EnableChat Name
+
+Unmuzzles a user.
+
+/GuildMove GuildName MapNumber XXX YYY
+
+Warps an entire guild (all online members) to the location you specify. If more than one member is online, each additional warped character will appear in the next adjacent unoccupied space. Can be buggy with large guilds (if all adjacent spaces to the coordinate you specify are occupied, some users may get warped back to the nearest town). GuildName is case-sensitive.
+
+/GuildDisconnect GuildName
+
+Disconnects all online members of the guild you specify.
+
+/GuildWarEnd GuildName
+/GuildWarStart GuildName
+/GuildWarStop GuildName
+
+oops! I forgot which of these does what... I'll update when I next log in
+
+/RemainTime AccountName ####
+
+Sets the remaining time that the specified user has on the server. This is only used for Pay2Play servers (craaaaap lol). After the specified time is used up, the user is unable to log into his/her characters. Time is in minutes, with a maximum of 65535 (45.5 days lol). Use of this command differs between 0.97/0.97b+d servers, I think.
+
+/Trans Name or /Trace Name
+
+Warps the GM to the user specified (or to saved coordinates, if that user is offline)
+
+/SetBlock Name [Value]
+
+Blocks the specified character (sets ctlCode to 1). Blocks that character ONLY, not the account (blocked character's name in Character Selection screen is highlighted in yellow). I THINK this can be used to make another user GM, by specifying a ctlCode, but still playing around with it - update soon
+
+/UnsetBlock Name
+
+Removes a pre-existing block on the specified account (sets ctlCode to 0). Cannot be used to remove GM status (only works on ctlCode 1, at least when I tested).
+
+!Message
+
+Broadcasts "Message" as a global notification (Event Message or Announcement) with gold text on every user's screen.
