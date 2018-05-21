@@ -56,6 +56,9 @@ MoveGuild					= /gmove
 ; [GM_ONLY_COMMAND] Allow to drop item in game, requires Administrator (ctlcode = 32) and privileges to use Item Drop command
 ; usage: /item <item_group> <item_index> <item_level> <skill> <luck> <option> <exc> <setitem> <periodtime> <socketslot> <socketbonus/attribute> <muunevolutionitemcat> <muunevolutionitemindex>
 
+Adds an item to Gremory Case, usage: int /addgift <storage_type> <item_group> <item_index> <item_level> <item_durability> <skill> <luck> <option> <exc> <ancient> <socket_count> <socket_bonus/attribute> <MuunEvolutionItemCat> <MuunEvolutionItemIndex> <days_to_expire>
+storage_type is 1 for Server 2 for character
+
 =====================================================================================
 GAME MASTER COMMAND'S
 =====================================================================================
