@@ -1,0 +1,109 @@
+Weapons
+
+5 14 11 255 1 1 7 //Mistery Staff
+5 15 11 255 1 1 7 //Violent Wind Staff
+5 16 11 255 1 1 7 //Red Wing Staff
+5 17 11 255 1 1 7 //Ancient Staff
+5 18 11 255 1 1 7 //Black Rose Staff
+5 19 11 255 1 1 7 //Aura Staff
+5 20 11 255 1 1 7 //Lilium Staff
+5 21 11 255 1 1 7 //Book of Sahamutt
+5 22 11 255 1 1 7 //Book of Neil
+
+Helms
+
+7 39 11 255 1 1 7 //Mistery Helm
+7 40 11 255 1 1 7 //Red Wing Helm
+7 41 11 255 1 1 7 //Ancient helm
+7 42 11 255 1 1 7 //Black Rose Helm
+7 43 11 255 1 1 7 //Aura Helm
+7 44 11 255 1 1 7 //Lilium Helm
+
+Armors
+
+8 39 11 255 1 1 7 //Mistery Armors
+8 40 11 255 1 1 7 //Red Wing Armors
+8 41 11 255 1 1 7 //Ancient Armors
+8 42 11 255 1 1 7 //Black Rose Armors
+8 43 11 255 1 1 7 //Aura Armors
+8 44 11 255 1 1 7 //Lilium Armors
+
+Pants
+
+9 39 11 255 1 1 7 //Mistery Pants
+9 40 11 255 1 1 7 //Red Wing Pants
+9 41 11 255 1 1 7 //Ancient Pants
+9 42 11 255 1 1 7 //Black Rose Pants
+9 43 11 255 1 1 7 //Aura Pants
+9 44 11 255 1 1 7 //Lilium Pants
+
+Gloves
+
+10 39 11 255 1 1 7 //Mistery Gloves
+10 40 11 255 1 1 7 //Red Wing Gloves
+10 41 11 255 1 1 7 //Ancient Gloves
+10 42 11 255 1 1 7 //Black Rose Gloves
+10 43 11 255 1 1 7 //Aura Gloves
+10 44 11 255 1 1 7 //Lilium Gloves
+
+Boots
+
+11 39 11 255 1 1 7 //Mistery Boots
+11 40 11 255 1 1 7 //Red Wing Boots
+11 41 11 255 1 1 7 //Ancient Boots
+11 42 11 255 1 1 7 //Black Rose Boots
+11 43 11 255 1 1 7 //Aura Boots
+11 44 11 255 1 1 7 //Lilium Boots
+
+Wings
+
+12 41 11 255 1 1 7 //Wing of Misery
+12 42 11 255 1 1 7 //Wing of Despair
+12 43 11 255 1 1 7 //Wing of Violent Wind
+
+Scrolls
+
+15 19 0 0 0 0 0 //Scroll of Drain Life
+15 20 0 0 0 0 0 //Scroll of Chain Lightning
+15 21 0 0 0 0 0 //Scroll of Electric Surge
+15 22 0 0 0 0 0 //Scroll of Damage Reflex
+15 23 0 0 0 0 0 //Scroll of Night
+15 24 0 0 0 0 0 //Scroll of Sleep
+15 25 0 0 0 0 0 //Scroll of MagicSpeed Up
+15 26 0 0 0 0 0 //Scroll of MagicDefense Up
+
+==========================================
+Full op
+
+*Mistery Set*
+/drop 7 39 13 1 7 1 63 
+/drop 8 39 13 1 7 1 63 
+/drop 9 39 13 1 7 1 63 
+/drop 10 39 13 1 7 1 63 
+/drop 11 39 13 1 7 1 63 
+
+*Red Wing Set*
+/drop 7 40 13 1 7 1 63 
+/drop 8 40 13 1 7 1 63 
+/drop 9 40 13 1 7 1 63 
+/drop 10 40 13 1 7 1 63 
+/drop 11 40 13 1 7 1 63 
+
+*Ancient Set*
+/drop 7 41 13 1 7 1 63 
+/drop 8 41 13 1 7 1 63 
+/drop 9 41 13 1 7 1 63 
+/drop 10 41 13 1 7 1 63 
+/drop 11 41 13 1 7 1 63 
+
+*Staffs*
+
+/drop 5 14 13 1 7 1 63 - Mistery Staff 
+/drop 5 15 13 1 7 1 63 - Violent Wind Staff
+/drop 5 16 13 1 7 1 63 - Red Wing Staff
+/drop 5 17 13 1 7 1 63 - Ancient Staff 
+
+*Wings*
+
+/drop 12 41 13 1 7 1 63 - Wing of Misery
+/drop 12 42 13 1 7 1 63 - Wing of Despair

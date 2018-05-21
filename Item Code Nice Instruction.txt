@@ -1,0 +1,349 @@
+/drop A B C D E F G
+A = Item group (read Items.txt)
+B = Item sub-index (read Items.txt)
+C = Level (from 0 to 13)
+D = Skill (0 or 1)
+E = Luck (0 or 1)
+F = Option (0 to 7)
+G = Excellent option
+
+Sum these numbers:
+Weapon and Pendant Excellent Option:
+
+1 = Mana recovery after monster hunt +mana/8
+2 = Health recovery after monster hunt +HP/8
+4 = +7 Speed
+8 = More damage +2%
+16 = More damage +level/20
+32 = Excellent damage rate +10%
+
+Note: Combine number and you can make an exc item option.
+      Sample: 8+32=40 Drop Code: /drop 1 0 0 0 0 0 40 = Exc Small Axe+Dmg 2%+EDR :)
+
+Sets/Shield/Ring Excellent Option
+
+1 = Increase Zen After Hunt 40%
+2 = Defense Succes Rate 10%
+4 = Reflect Damage 5%
+8 = Damage Decrease 4%
+16 = Increase MP 4%
+32 = Increase HP 4%
+63 = Full Option
+
+Note: Combine number and you can make an exc item option.
+      Sample: 8+32=40 Drop Code: /drop 6 0 0 0 0 0 40 = Exc Small Shield+HP 4%+DD 4% :)
+=========================================================================================
+Index 	Item	Lvl	Dur	Skill	Luck	Opt	Exc	Name
+=========================================================================================
+Hyon Set
+7	1	0	0	0	0	0	5	//Hyon Dragon Helm
+11	1	0	0	0	0	0	5	//Hyon Dragon Boots
+10	1	0	0	0	0	0	5	//Hyon Dragon Gloves
+0	14	0	0	0	0	0	5	//Hyon Lightning Sword
+
+Vicious Set
+
+7	1	0	0	0	0	0	6	//Vicious Dragon Helm
+8	1	0	0	0	0	0	6	//Vicious Dragon Armor
+9	1	0	0	0	0	0	6	//Vicious Dragon Pants
+13	22	0	0	0	0	0	6	//vicious Ring of Earth
+
+Anubis Set
+7	3	0	0	0	0	0	5	//Anubis Legendary Helm
+8	3	0	0	0	0	0	5	//Anubis Legendary Armor
+10	3	0	0	0	0	0	5	//Anubis Legendary Gloves
+13	21	0	0	0	0	0	5	//Anubis Ring of Fire
+
+
+Isis Set
+7	3	0	0	0	0	0	6	//Isis Legendary Helm
+8	3	0	0	0	0	0	6	//Anubis Legendary Armor
+9	3	0	0	0	0	0	6	//Anubis Legendary Pants
+11	3	0	0	0	0	0	6	//Anubis Legendary Boots
+
+
+Aruane Set
+7	14	0	0	0	0	0	6	//Aruane Guardian Helm
+8	14	0	0	0	0	0	6	//Aruane Guardian Armor
+9	14	0	0	0	0	0	6	//Aruane Guardian Pants
+11	14	0	0	0	0	0	6	//Aruane Guardian Boots
+
+Muren Set
+8	15	0	0	0	0	0	6	//Muren Storm Crow Armor
+9	15	0	0	0	0	0	6	//Muren Storm Crow Pants
+10	15	0	0	0	0	0	6	//Muren Storm Crow Gloves
+13	21	0	0	0	0	0	6	//Muren Ring of fire
+
+Agnis Set
+7	26	0	0	0	0	0	6	//Agnis adamantine Helm
+8	26	0	0	0	0	0	6	//Agnis adamantine Armor
+9	26	0	0	0	0	0	6	//Agnis adamantine Pants
+13	9	0	0	0	0	0	6	//Agnis Ring of Poison
+
+Browii Set
+
+9	26	0	0	0	0	0	5	//Browii adamantine Pants
+10	26	0	0	0	0	0	5	//Browii adamantine Gloves
+11	26	0	0	0	0	0	5	//Browii adamantine Boots
+13	25	0	0	0	0	0	6	//Browii Pendant of Ice
+
+Krono Set
+
+7	40	0	0	0	0	0	6	//Krono Red Wing Helm
+9	40	0	0	0	0	0	6	//Krono Red Wing Pants
+10	40	0	0	0	0	0	6	//Krono Red Wing Gloves
+13	24	0	0	0	0	0	6	//Krono Ring of Magic
+
+
+Semeden
+7	10	0	0	0	0	0	5	//Semeden Red Wing Helm
+8	10	0	0	0	0	0	5	//Semeden Red Wing Armor
+10	10	0	0	0	0	0	5	//Semeden Red Wing Gloves
+11	10	0	0	0	0	0	5	//Semeden Red Wing Boots
+
+Warrior Set
+7	5	0	0	0	0	0	5	//Warrior Leather Helm
+8	5	0	0	0	0	0	5	//Warrior Leather Armor
+9	5	0	0	0	0	0	5	//Warrior Leather Pants
+111	5	0	0	0	0	0	5	//Warrior Leather Boots
+10	5	0	0	0	0	0	5	//Warrior Leather Gloves
+2	1	0	0	0	0	0	5	//Warrior Morning Star
+13	8	0	0	0	0	0	5	//Warrior Ring of ice
+
+Hyperion Set
+8	0	0	0	0	0	0	5	//Hyperion Bronze Armor
+9	0	0	0	0	0	0	5	//Hyperion Bronze Pants
+11	0	0	0	0	0	0	5	//Hyperion Bronze Boots
+
+Eplet Set
+
+8	6	0	0	0	0	0	5	//Eplete Scale Armor
+9	6	0	0	0	0	0	5	//Eplete Scale Pants
+7	6	0	0	0	0	0	5	//Eplete Scale Helmet
+6	9	0	0	0	0	0	5	//Eplete Plate Shield
+13	12	0	0	0	0	0	5	//Eplete Pendant of Lightning
+
+Garuda Set
+8	8	0	0	0	0	0	5	//Garuda Brass Armor
+9	8	0	0	0	0	0	5	//Garuda Brass Pants
+10	8	0	0	0	0	0	5	//Garuda Brass Gloves
+11	8	0	0	0	0	0	5	//Garuda Brass Boots
+13	13	0	0	0	0	0	5	//Garuda Pendant of Fire
+
+Kantata Set
+
+8	9	0	0	0	0	0	5	//Kantata Plate Armor
+10	9	0	0	0	0	0	5	//Kantata Plate Gloves
+11	9	0	0	0	0	0	5	//Kantata Plate Boots
+13	9	0	0	0	0	0	5	//Kantata Ring of Poison
+13	23	0	0	0	0	0	5	//Kantata Ring of Wind
+
+Appolo Set
+
+8	2	0	0	0	0	0	5	//Apollo Pad Armor
+9	2	0	0	0	0	0	5	//Apollo Pad Pants
+7	2	0	0	0	0	0	5	//Apollo Pad Helm
+10	2	0	0	0	0	0	5	//Apollo Pad Gloves
+0	0	0	0	0	0	0	5	//Appollo skull staff
+13	25	0	0	0	0	0	5	//Apollo Pendant of Ice
+13	24	0	0	0	0	0	5	//Apollo Ring of Magic
+
+Evis Set
+
+8	4	0	0	0	0	0	5	//Evis Bone Armor
+9	4	0	0	0	0	0	5	//Evis Bone Pants
+11	4	0	0	0	0	0	5	//Evis Bone Boots
+13	26	0	0	0	0	0	5	//Evis Pendant of Wind
+
+hera Set
+
+7	7	0	0	0	0	0	5	//Hera Sphinx Armor
+9	7	0	0	0	0	0	5	//Hera Sphinx Pants
+11	7	0	0	0	0	0	5	//Hera Sphinx Boots
+10	7	0	0	0	0	0	5	//Hera Sphinx Gloves
+7	7	0	0	0	0	0	5	//Hera Sphinx Helm
+6	6	0	0	0	0	0	5	//Hera Skull Shield
+
+Ceto Vine Set
+11	10	0	0	0	0	0	5	//Ceto Vine Boots
+9	10	0	0	0	0	0	5	//Ceto Vine Pants
+10	10	0	0	0	0	0	5	//Ceto Vine Gloves
+7	10	0	0	0	0	0	5	//Ceto Vine Helm
+0	2	0	0	0	0	0	5	//Ceto Rapier Sword
+13	22	0	0	0	0	0	5	//Ceto Ring of Earth
+
+Gaia Set
+9	11	0	0	0	0	0	5	//Gaia Silk Pants
+8	11	0	0	0	0	0	5	//Gaia Silk Armor
+7	11	0	0	0	0	0	5	//Gaia Silk Helm
+10	11	0	0	0	0	0	5	//Gaia Silk Gloves
+4	9	0	0	0	0	0	5	//Gaia Golden Crossbow
+
+Odin Set
+
+7	12	0	0	0	0	0	5	//Odin Wind Helm
+8	12	0	0	0	0	0	5	//Odin Wind Armor
+9	12	0	0	0	0	0	5	//Odin Wind Pants
+10	12	0	0	0	0	0	5	//Odin Wind Gloves
+11	12	0	0	0	0	0	5	//Odin Wind Boots
+
+Argo Set
+
+8	13	0	0	0	0	0	5	//Argo Spirit Armor
+9	13	0	0	0	0	0	5	//Argo Spirit Pants
+10	13	0	0	0	0	0	5	//Argo Spirit Gloves
+
+Gywen Set
+
+8	14	0	0	0	0	0	5	//Gywen guardian Armor
+10	14	0	0	0	0	0	5	//Gywen guardian Gloves
+11	14	0	0	0	0	0	5	//Gywen guardian Boots
+4	5	0	0	0	0	0	5	//Gywen Sliver bow
+13	28	0	0	0	0	0	5	//Gywen Pendant of ability
+
+Gaion Set
+
+7	15	0	0	0	0	0	5	//Gaion Storm Crow Helm
+9	15	0	0	0	0	0	5	//Gaion Storm Crow Pants
+8	15	0	0	0	0	0	5	//Gaion Storm Crow Armor
+13	27	0	0	0	0	0	5	//Gaion Pendant of Water
+
+Berserker Set:
+
+7	6	0	0	0	0	0	6	//Berserker Scale Helm
+8	6	0	0	0	0	0	6	//Berserker Scale Armor
+9	6	0	0	0	0	0	6	//Berserker Scale Pants
+10	6	0	0	0	0	0	5	//Berserker Scale Gloves
+11	6	0	0	0	0	0	5	//Berserker Scale Boots
+
+Cloud Set
+
+7	8	0	0	0	0	0	5	//Cloud Brass Helm
+9	8	0	0	0	0	0	6	//Cloud Brass Pants
+
+Drake Set
+
+8	10	0	0	0	0	0	5 	//Drake Vine Armor
+9	10	0	0	0	0	0	6 	//Drake Vine Pants
+11	10	0	0	0	0	0	6 	//Drake Vine Boots
+7	10	0	0	0	0	0	6 	//Drake Vine Helm
+
+Peize Set
+
+9	11	0	0	0	0	0	6	//Peize Silk Pants
+10	11	0	0	0	0	0	6	//Peize Silk Gloves
+11	11	0	0	0	0	0	5	//Peize Silk Boots
+
+Elvian Set
+
+10	12	0	0	0	0	0	5	//Elvian Wind Gloves
+11	12	0	0	0	0	0	5	//Elvian Wind Boots
+
+Vega's Set
+7 	59 	0 	0 	0 	0 	0 	5 	//Vega's Sacred Helm
+8	59	0	0	0	0	0	5	//Vega's Sacred Armor
+9	59	0	0	0	0	0	5	//Vega's Sacred Pants
+0	32	0	0	1	0	0	5	//Vega's Sacred Glove
+
+Chamereuui's
+8	59	0	0	0	0	0	6	//Chamereuui's Sacred Armor
+9	59	0	0	0	0	0	6	//Chamereuui's Sacred Pants
+11	59	0	0	0	0	0	5	//Chamereuui's Sacred Boots
+0	32	0	0	1	0	0	6	//Chamereuui's Sacred Glove
+
+
+This is the new set items for Season 6 but still bug.
+Bugs Are:
+1. Cant put in Personal Store
+2. Cant Trade
+3. Cant Sell in NPC
+
+bu i decide to release this code for you to experience the new item set or ancient set, and i do rename the ancient with my own understanding so i dont think so if im correct in all the meaning of this item.
+
+Test it now. :D
+
+Note: This item only works on Season 6 Server :) :D
+
+Moro's Scale Set
+/drop 7 62 15 0 1 7 0 5  //Helm
+/drop 8 62 15 0 1 7 0 5  // Armor
+/drop 9 62 15 0 1 7 0 5 //Pants
+/drop 10 62 15 0 1 7 0 5//Gloves
+/drop 11 62 15 0 1 7 0 5//Boots
+
+Four's Silk Set
+
+/drop 7 63 15 0 1 7 0 5  //Helm
+/drop 8 63 15 0 1 7 0 5  //Armor
+/drop 9 63 15 0 1 7 0 5 //Pants
+/drop 10 63 15 0 1 7 0 5//Gloves
+/drop 11 63 15 0 1 7 0 5//Boots
+
+
+Hades Sphinx Set
+/drop 7 64 15 0 1 7 0 5 //Helm
+/drop 8 64 15 0 1 7 0 5  //Armor
+/drop 9 64 15 0 1 7 0 5 //Pants
+/drop 10 64 15 0 1 7 0 5//Gloves
+/drop 11 64 15 0 1 7 0 5//Boots
+
+Office's Violent Wind Set
+/drop 7 65 15 0 1 7 0 5 //Helm
+/drop 8 65 15 0 1 7 0 5  //Armor
+/drop 9 65 15 0 1 7 0 5 //Pants
+/drop 10 65 15 0 1 7 0 5//Gloves
+/drop 11 65 15 0 1 7 0 5//Boots
+
+
+Metereuui's Adamantine Set
+/drop 7 66 15 0 1 7 0 5 //Helm
+/drop 8 66 15 0 1 7 0 5  //Armor
+/drop 9 66 15 0 1 7 0 5 //Pants
+/drop 10 66 15 0 1 7 0 5//Gloves
+/drop 11 66 15 0 1 7 0 5//Boots
+
+
+Hagatonui's Black Dragon set
+/drop 7 67 15 0 1 7 0 5 //Helm
+/drop 8 67 15 0 1 7 0 5  //Armor
+/drop 9 67 15 0 1 7 0 5 //Pants
+/drop 10 67 15 0 1 7 0 5//Gloves
+/drop 11 67 15 0 1 7 0 5//Boots
+
+
+Kass's guardian Set
+/drop 7 68 15 0 1 7 0 5 //Helm
+/drop 8 68 15 0 1 7 0 5  //Armor
+/drop 9 68 15 0 1 7 0 5 //Pants
+/drop 10 68 15 0 1 7 0 5//Gloves
+/drop 11 68 15 0 1 7 0 5//Boots
+
+Taroseu's Legendary Set
+/drop 7 69 15 0 1 7 0 5 //Helm
+/drop 8 69 15 0 1 7 0 5  //Armor
+/drop 9 69 15 0 1 7 0 5 //Pants
+/drop 10 69 15 0 1 7 0 5//Gloves
+/drop 11 69 15 0 1 7 0 5//Boots
+
+
+Nemesis's Red Wing Set
+/drop 7 70 15 0 1 7 0 5 //Helm
+/drop 8 70 15 0 1 7 0 5  //Armor
+/drop 9 70 15 0 1 7 0 5 //Pants
+/drop 10 70 15 0 1 7 0 5//Gloves
+/drop 11 70 15 0 1 7 0 5//Boots
+
+
+Army's Storm Crow Set
+
+/drop 8 71 15 0 1 7 0 5  //Armor
+/drop 9 71 15 0 1 7 0 5 //Pants
+/drop 10  71 15 0 1 7 0 5//Gloves
+/drop 11 71 15 0 1 7 0 5//Boots
+
+Tree's Storm Hard Set
+
+/drop 7 72 15 0 1 7 0 5 //helm
+/drop 8 72 15 0 1 7 0 5  //Armor
+/drop 9 72 15 0 1 7 0 5 //Pants
+/drop 11 72 15 0 1 7 0 5//Boots

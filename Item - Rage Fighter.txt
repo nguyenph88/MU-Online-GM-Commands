@@ -1,0 +1,71 @@
+//Sets & Weapons
+0 32 15 0 1 1 1 0 //
+0 33 15 0 1 1 1 0 //
+0 34 15 0 1 1 1 0 //
+7 59 15 0 0 1 1 0 //
+7 60 15 0 0 1 1 0 //
+7 61 15 0 0 1 1 0 //
+8 59 15 0 0 1 1 0 //
+8 60 15 0 0 1 1 0 //
+8 61 15 0 0 1 1 0 //
+9 59 15 0 0 1 1 0 //
+9 60 15 0 0 1 1 0 //
+9 61 15 0 0 1 1 0 //
+11 59 15 0 0 1 1 0 //
+11 60 15 0 0 1 1 0 //
+11 61 15 0 0 1 1 0 //
+
+//Wings
+12 135 9 255 1 1 1 0 //Small Cloak of Warrior
+12 49 9 255 1 1 1 0 //Cloak of Warrior
+12 50 9 0 0 0 0 0 //Lord of the Cape
+
+//Scroll
+15 30 0 0 0 0 0 0 //Chain Driver Parchment
+15 31 0 0 0 0 0 0 //Dark Side Parchment
+15 32 0 0 0 0 0 0 //Dragon Lore Parchment
+15 33 0 0 0 0 0 0 //Dragon Slayer Parchment
+15 34 0 0 0 0 0 0 //Red Armor Ignore Parchment
+15 35 0 0 0 0 0 0 //Fitness Parchment
+15 36 0 0 0 0 0 0 //Defense Rate Parchment
+
+
+--------------
+Season 8.2
+
+//Section Type Level Dur Skill Luck Option Excellent Item Type
+//Sets & Weapons
+0 35 15 255	1 1 7 1	//phoneix gloves
+0 32 15 255	1 1 7 1 //Sacred Gloves
+0 33 15 255	1 1 7 1 //Holy Storm Claw
+0 34 15 255 1 1 7 1 //Piercing Gloves
+7 59 15 255	1 1 7 1 //Sacred Fire Helm
+7 60 15 255 1 1 7 1 //Storm Zahard Helm
+7 61 15 255 1 1 7 1 //Piercing Grove Helm
+7	73 15 255 1 1 7 1	//phoneix soul Helm
+8 59 15 255 1 1 7 1 //Sacred Fire Armour
+8 60 15 255	1 1	7 1 //Storm Zahard Armour
+8 61 15 255 1 1 7 1 //Piercing Grove Armour
+8	73 15 255 1 1 7 1	//phoneix Soul Armour
+9 59 15 255 1 1 7 1 //Sacred Fire Pants
+9 60 15 255 1 1 7 1 //Storm Zahard Pants
+9 61 15 255 1 1 7 1 //Piercing Grove Pants
+9	73 15 255 1 1 7 1	//phoneix Soul Pants
+11 59 15 255	1 1 7 1 //Sacred Fire Boots
+11 60 15 255	1 1 7 1 //Storm Zahard Boots
+11 61 15 255 1 1 7 1 //Piercing Grove Boots 
+11 73 15 255 1 1 7 1	//phoneix Soul Boots
+
+//Wings
+12 135 15 255 1 1 1 1 //Small Cloak of Warrior
+12 49 15 255 1 1 1 1 //Cloak of Warrior
+12 50 15 255 0 0 0 1 //Lord of the Cape
+
+//Scroll
+15 30 0 0 0 0 0 0 //Chain Driver Parchment
+15 31 0 0 0 0 0 0 //Dark Side Parchment
+15 32 0 0 0 0 0 0 //Dragon Lore Parchment
+15 33 0 0 0 0 0 0 //Dragon Slayer Parchment
+15 34 0 0 0 0 0 0 //Red Armor Ignore Parchment
+15 35 0 0 0 0 0 0 //Fitness Parchment
+15 36 0 0 0 0 0 0 //Defense Rate Parchment
