@@ -1,0 +1,972 @@
+BK
+
+Cod:
+Leather:
+7 5 0 255 0 0 0 //Helm
+8 5 0 255 0 0 0 //Armor
+9 5 0 255 0 0 0 //Pants
+10 5 0 255 0 0 0 //Gloves
+11 5 0 255 0 0 0 //Boots
+
+Bronze:
+7 0 0 255 0 0 0 //Helm
+8 0 0 255 0 0 0 //Armor
+9 0 0 255 0 0 0 //Pants
+10 0 0 255 0 0 0 //Gloves
+11 0 0 255 0 0 0 //Boots
+
+Scale:
+7 6 0 255 0 0 0 //Helm
+8 6 0 255 0 0 0 //Armor
+9 6 0 255 0 0 0 //Pants
+10 6 0 255 0 0 0 //Gloves
+11 6 0 255 0 0 0 //Boots
+
+Brass:
+7 8 0 255 0 0 0 //Helm
+8 8 0 255 0 0 0 //Armor
+9 8 0 255 0 0 0 //Pants
+10 8 0 255 0 0 0 //Gloves
+11 8 0 255 0 0 0 //Boots
+
+Plate:
+7 9 0 255 0 0 0 //Helm
+8 9 0 255 0 0 0 //Armor
+9 9 0 255 0 0 0 //Pants
+10 9 0 255 0 0 0 //Gloves
+11 9 0 255 0 0 0 //Boots
+
+
+
+Dragon:
+7 1 0 255 0 0 0 //Helm
+8 1 0 255 0 0 0 //Armor
+9 1 0 255 0 0 0 //Pants
+10 1 0 255 0 0 0 //Gloves
+11 1 0 255 0 0 0 //Boots
+
+Ashcrow:
+7 34 0 255 0 0 0 //Helm
+8 34 0 255 0 0 0 //Armor
+9 34 0 255 0 0 0 //Pants
+10 34 0 255 0 0 0 //Gloves
+10 34 0 255 0 0 0 //Boots
+
+Black Dragon:
+7 16 0 255 0 0 0 //Helm
+8 16 0 255 0 0 0 //Armor
+9 16 0 255 0 0 0 //Pants
+10 16 0 255 0 0 0 //Gloves
+11 16 0 255 0 0 0 //Boots
+
+Dark Phoenix:
+7 17 0 255 0 0 0 //Helm
+8 17 0 255 0 0 0 //Armor
+9 17 0 255 0 0 0 //Pants
+10 17 0 255 0 0 0 //Gloves
+11 17 0 255 0 0 0 //Boots
+
+Great Dragon:
+7 21 0 255 0 0 0 //Helm
+8 21 0 255 0 0 0 //Armor
+9 21 0 255 0 0 0 //Pants
+10 21 0 255 0 0 0 //Gloves
+11 21 0 255 0 0 0 //Boots
+
+Dragon Knight:
+7 29 0 255 0 0 0 //Helm
+8 29 0 255 0 0 0 //Armor
+9 21 0 255 0 0 0 //Pants
+10 29 0 255 0 0 0 //Gloves
+11 29 0 255 0 0 0 //Boots
+
+
+
+Swords:
+
+0 0 0 255 0 0 0 //Short Sword
+0 1 0 255 0 0 0 //Kris
+0 2 0 255 0 0 0 //Rapier
+0 4 0 255 0 0 0 //Sword Of Assassin
+0 3 0 255 0 0 0 //Katana
+0 6 0 255 0 0 0 //Gladius
+0 7 0 255 0 0 0 //Flachion
+0 8 0 255 0 0 0 //Serpant Sword
+0 9 0 255 0 0 0 //Sword of Salamander
+0 5 0 255 0 0 0 //Blade
+0 10 0 255 0 0 0 //Light Saber
+0 11 0 255 0 0 0 //Legendary Sword
+0 13 0 255 0 0 0 //Double Blade
+0 15 0 255 0 0 0 //Giant Sword
+0 12 0 255 0 0 0 //Heliacal Sword
+0 14 0 255 0 0 0 //Lightning Sword
+2 5 0 255 0 0 0 //Cristal Sword
+0 16 0 255 0 0 0 //Sword of Destruction
+0 17 0 255 0 0 0 //Dark Breaker
+0 19 0 255 0 0 0 //Divine Sword of Archangel
+0 20 0 255 0 0 0 //Knight Blade
+0 22 0 255 0 0 0 //Bone Blade
+0 24 0 255 0 0 0 //DayBreak
+
+Axes:
+1 0 0 255 0 0 0 //Small Axe
+1 1 0 255 0 0 0 //Hand Axe
+1 2 0 255 0 0 0 //Double Axe
+1 3 0 255 0 0 0 //Tomahawk
+1 4 0 255 0 0 0 //Fairy Axe
+1 5 0 255 0 0 0 //Battle Axe
+1 6 0 255 0 0 0 //Nikkea Axe
+1 7 0 255 0 0 0 //Larkan Axe
+1 8 0 255 0 0 0 //Crecent Axe
+2 6 0 255 0 0 0 //Chaos Dragon Axe
+
+Spears:
+3 5 0 255 0 0 0 //Double Poleaxe
+3 2 0 255 0 0 0 //Dragon Lance
+3 6 0 255 0 0 0 //Helberd
+3 1 0 255 0 0 0 //Spear
+3 7 0 255 0 0 0 //Berdysh
+3 0 0 255 0 0 0 //Light Spear
+3 4 0 255 0 0 0 //Serpent Spear
+3 8 0 255 0 0 0 //Great Shythe
+3 9 0 255 0 0 0 //Hill of Barlrog
+3 10 0 255 0 0 0 //Dragon Spear
+3 3 0 255 0 0 0 //Great Trident
+
+Maces:
+2 0 0 255 0 0 0 //Mace
+2 1 0 255 0 0 0 //Morning Star
+2 2 0 255 0 0 0 //Flail
+2 3 0 255 0 0 0 //Great Warhammer
+2 4 0 255 0 0 0 //Cristal Morning Star
+
+Shields:
+6 0 0 255 0 0 0 //Small Shield
+6 4 0 255 0 0 0 //Buckler
+6 1 0 255 0 0 0 //Horn Shield
+6 2 0 255 0 0 0 //Kite Shield
+6 6 0 255 0 0 0 //Skull Shield
+6 10 0 255 0 0 0 //Large Round Shield
+6 9 0 255 0 0 0 //Plate Shield
+6 7 0 255 0 0 0 //Spike Shield
+6 5 0 255 0 0 0 //Dragon Slayer Shield
+6 8 0 255 0 0 0 //Tower Shield
+6 11 0 255 0 0 0 //Serpent Shield
+6 12 0 255 0 0 0 //Bronze Shield
+6 13 0 255 0 0 0 //Chaos Dragon Shield
+
+Wings:
+12 2 0 255 0 0 0 //Satan Wings
+12 5 0 255 0 0 0 //Devil Wings
+12 36 0 255 0 0 0 //Wing of Storm
+
+Skills:
+12 7 0 255 0 0 0 //Twisting Splash
+12 12 0 255 0 0 0 //Rageful Blow
+12 19 0 255 0 0 0 //Death Stab
+12 14 0 255 0 0 0 //Greater Fortitude
+12 13 0 255 0 0 0 //Impale
+
+
+
+SM
+
+Cod:
+Pad:
+7 2 0 255 0 0 0 //Helm
+8 2 0 255 0 0 0 //Armor
+9 2 0 255 0 0 0 //Pants
+10 2 0 255 0 0 0 //Gloves
+11 2 0 255 0 0 0 //Boots
+
+Bone:
+7 4 0 255 0 0 0 //Helm
+8 4 0 255 0 0 0 //Armor
+9 4 0 255 0 0 0 //Pants
+10 4 0 255 0 0 0 //Gloves
+11 4 0 255 0 0 0 //Boots
+
+Sphinx:
+7 7 0 255 0 0 0 //Helm
+8 7 0 255 0 0 0 //Armor
+9 7 0 255 0 0 0 //Pants
+10 7 0 255 0 0 0 //Gloves
+11 7 0 255 0 0 0 //Boots
+
+Legendary:
+7 3 0 255 0 0 0 //Helm
+8 3 0 255 0 0 0 //Armor
+9 3 0 255 0 0 0 //Pants
+10 3 0 255 0 0 0 //Gloves
+11 3 0 255 0 0 0 //Boots
+
+Eclips:
+7 35 0 255 0 0 0 //Helm
+8 35 0 255 0 0 0 //Armor
+9 35 0 255 0 0 0 //Pants
+10 35 0 255 0 0 0 //Gloves
+11 35 0 255 0 0 0 //Boots
+
+Grand Soul:
+7 18 0 255 0 0 0 //Helm
+8 18 0 255 0 0 0 //Armor
+9 18 0 255 0 0 0 //Pants
+10 18 0 255 0 0 0 //Gloves
+11 18 0 255 0 0 0 //Boots
+
+Dark Soul:
+7 22 0 255 0 0 0 //Helm
+8 22 0 255 0 0 0 //Armor
+9 22 0 255 0 0 0 //Pants
+10 22 0 255 0 0 0 //Gloves
+11 22 0 255 0 0 0 //Boots
+
+Venom Mist:
+7 30 0 255 0 0 0 //Helm
+8 30 0 255 0 0 0 //Armor
+9 30 0 255 0 0 0 //Pants
+10 30 0 255 0 0 0 //Gloves
+11 30 0 255 0 0 0 //Boots
+
+Staff:
+5 0 0 255 0 0 0 //Skull Staff
+5 1 0 255 0 0 0 //Angelic Staff
+5 2 0 255 0 0 0 //Serpent Staff
+5 3 0 255 0 0 0 //Lightning Staff
+5 4 0 255 0 0 0 //Gorgon Staff
+5 5 0 255 0 0 0 //Legendary Staff
+5 7 0 255 0 0 0 //Chaos Lightning Staff
+5 6 0 255 0 0 0 //Resurrection Staff
+5 9 0 255 0 0 0 //Dragon Soul Staff
+5 8 0 255 0 0 0 //Staff of Destruction
+5 10 0 255 0 0 0 //Divine Archangel Staff
+5 11 0 255 0 0 0 //Kundun Staff
+5 12 0 255 0 0 0 //Grand Viper Staff
+5 13 0 255 0 0 0 //Platina Wing Staff
+Shield:
+6 14 0 255 0 0 0 //Legendary Shield
+6 15 0 255 0 0 0 //Grand Soul Shield
+
+Wings:
+12 1 0 255 0 0 0 //Heaven Wings
+12 4 0 255 0 0 0 //Soul Wings
+12 37 0 255 0 0 0 //Wings of Space-Time
+
+
+Spells:
+15 3 0 255 0 0 0 //Fireball Spell
+15 10 0 255 0 0 0 //Power Wave Spell
+15 1 0 255 0 0 0 //Meteorite Spell
+15 2 0 255 0 0 0 //Lightning Spell
+15 6 0 255 0 0 0 //Ice Spell
+15 0 0 255 0 0 0 //Poison Spell
+15 7 0 255 0 0 0 //Twister Spell
+15 8 0 255 0 0 0 //Evil Spirits Spell
+15 9 0 255 0 0 0 //Hell Fire Spell
+15 11 0 255 0 0 0 //Aqua Beam Spell
+15 15 0 255 0 0 0 //Mana Shield Spell
+15 14 0 255 0 0 0 //Mass Teleport Spell
+15 12 0 255 0 0 0 //Blast Spell
+15 13 0 255 0 0 0 //Inferno Spell
+15 16 0 255 0 0 0 //Decay Spell
+15 17 0 255 0 0 0 //Ice Storm Spell
+15 18 0 255 0 0 0 //Nova Spell
+15 4 0 255 0 0 0 //Flame Spell
+15 5 0 255 0 0 0 //Teleport Spell
+
+
+
+ME
+
+Cod:
+Vine:
+7 10 0 255 0 0 0 //Helm
+8 10 0 255 0 0 0 //Armor
+9 10 0 255 0 0 0 //Pants
+10 10 0 255 0 0 0 //Gloves
+11 10 0 255 0 0 0 //Boots
+
+Silk:
+7 11 0 255 0 0 0 //Helm
+8 11 255 0 0 0 //Armor
+9 11 0 255 0 0 0 //Pants
+10 11 0 255 0 0 0 //Gloves
+11 11 0 255 0 0 0 //Boots
+
+Wind:
+7 12 0 255 0 0 0 //Helm
+8 12 0 255 0 0 0 //Armor
+9 12 0 255 0 0 0 //Pants
+10 12 0 255 0 0 0 //Gloves
+11 12 0 255 0 0 0 //Boots
+
+Spirit:
+7 13 0 255 0 0 0 //Helm
+8 13 0 255 0 0 0 //Armor
+9 13 0 255 0 0 0 //Pants
+10 13 0 255 0 0 0 //Gloves
+11 13 0 255 0 0 0 //Boots
+
+Guardian:
+7 14 0 255 0 0 0 //Helm
+8 14 0 255 0 0 0 //Armor
+9 14 0 255 0 0 0 //Pants
+10 14 0 255 0 0 0 //Gloves
+11 14 0 255 0 0 0 //Boots
+
+Iris:
+7 36 0 255 0 0 0 //Helm
+8 36 0 255 0 0 0 //Armor
+9 36 0 255 0 0 0 //Pants
+10 36 0 255 0 0 0 //Gloves
+11 36 0 255 0 0 0 //Boots
+
+Divine:
+7 19 0 255 0 0 0 //Helm
+8 19 0 255 0 0 0 //Armor
+9 19 0 255 0 0 0 //Pants
+10 19 0 255 0 0 0 //Gloves
+11 19 0 255 0 0 0 //Boots
+
+Red Spirit:
+7 24 0 255 0 0 0 //Helm
+8 24 0 255 0 0 0 //Armor
+9 24 0 255 0 0 0 //Pants
+10 24 0 255 0 0 0 //Gloves
+11 24 0 255 0 0 0 //Boots
+
+Sylpid Ray:
+7 31 0 255 0 0 0 //Helm
+8 31 0 255 0 0 0 //Armor
+9 31 0 255 0 0 0 //Pants
+10 31 0 255 0 0 0 //Gloves
+11 31 0 255 0 0 0 //Boots
+
+Crossbows and bolts:
+4 19 0 255 0 0 0 //Great Reign Crossbow
+4 7 0 255 0 0 0 //Bolts
+4 8 0 255 0 0 0 //Crossbow
+4 9 0 255 0 0 0 //Golden Crossbow
+4 10 0 255 0 0 0 //Arquebus
+4 11 0 255 0 0 0 //Light Crossbow
+4 12 0 255 0 0 0 //Serpent Crossbow
+4 13 0 255 0 0 0 //Blue Wing Crossbow
+4 14 0 255 0 0 0 //Aqua Crossbow
+4 18 0 255 0 0 0 //Divine Crossbow of Archangel
+4 16 0 255 0 0 0 //Saint Crossbow
+
+Bows and arrows:
+4 15 0 255 0 0 0 //Arrows
+4 0 0 255 0 0 0 //Short Bow
+4 1 0 255 0 0 0 //Bow
+4 2 0 255 0 0 0 //Elven Bow
+4 3 0 255 0 0 0 //Battle Bow
+4 4 0 255 0 0 0 //Tiger Bow
+4 5 0 255 0 0 0 //Silver Bow
+4 6 0 255 0 0 0 //Chaos Nature Bow
+4 20 0 255 0 0 0 //Arrow Viper Bow
+4 21 0 255 0 0 0 //Sylpid Wing Bow
+4 22 0 255 0 0 0 //Albatross Bow
+4 17 0 255 0 0 0 //Celestial Bow
+
+
+Maces:
+2 7 0 255 0 0 0 //Elemental Mace
+
+Shields:
+6 3 0 255 0 0 0 //Elven Shield
+6 16 0 255 0 0 0 //Elemental Shield
+
+Wings:
+12 0 0 255 0 0 0 //Fairy Wings
+12 3 0 255 0 0 0 //Butterfly Wings
+12 38 0 255 0 0 0 //Wings of Illusion
+
+Orbs:
+12 8 0 255 0 0 0 //Healing Orb
+12 9 0 255 0 0 0 //Greater Defense Orb
+12 10 0 255 0 0 0 //Greater Offense Orb
+12 17 0 255 0 0 0 //Penetration Orb
+12 11 0 255 0 0 0 //Goblin Summon Orb
+12 11 1 255 0 0 0 //Golem Summon Orb
+12 11 2 255 0 0 0 //Assassin Summon Orb
+12 11 3 255 0 0 0 //Elite Yeti Summon Orb
+12 11 4 255 0 0 0 //Dark Knight Summon Orb
+12 11 5 255 0 0 0 //Bali Summon Orb
+12 11 6 255 0 0 0 //Soldier Summon Orb
+12 18 0 255 0 0 0 //Ice Arrow Orb
+
+
+
+Summoner
+
+Cod:
+Mistery:
+7 39 13 10 6 0 1 20 //Helm
+8 39 13 10 6 0 1 20 //Armor
+9 39 13 10 6 0 1 20 //Pants
+10 39 13 10 6 0 1 20 //Gloves
+11 39 13 10 6 0 1 20 //Boots
+
+
+Red Wing:
+7 40 13 10 6 0 1 20 //Helm
+8 40 13 10 6 0 1 20 //Armor
+9 40 13 10 6 0 1 20 //Pants
+10 40 13 10 6 0 1 20 //Gloves
+11 40 13 10 6 0 1 20 //Boots
+
+Ancient:
+7 41 13 10 6 0 1 20 //Helm
+8 41 13 10 6 0 1 20 //Armor
+9 41 13 10 6 0 1 20 //Pants
+10 41 13 10 6 0 1 20 //Gloves
+11 41 13 10 6 0 1 20 //Boots
+
+Black Rose:
+7 42 13 10 6 0 1 20 //Helm
+8 42 13 10 6 0 1 20 //Armor
+9 42 13 10 6 0 1 20 //Pants
+10 42 13 10 6 0 1 20 //Gloves
+11 42 13 10 6 0 1 20 //Boots
+
+Aura:
+7 43 13 10 6 0 1 20 //Helm
+8 43 13 10 6 0 1 20 //Armor
+9 43 13 10 6 0 1 20 //Pants
+10 43 13 10 6 0 1 20 //Gloves
+11 43 13 10 6 0 1 20 //Boots
+
+Lilium:
+7 44 13 10 6 0 1 20 //Helm
+8 44 13 10 6 0 1 20 //Armor
+9 44 13 10 6 0 1 20 //Pants
+10 44 13 10 6 0 1 20 //Gloves
+11 44 13 10 6 0 1 20 //Boots
+
+Armas:
+5 14 13 10 6 0 1 20 //Mistery Staff
+5 15 13 10 6 0 1 20 //Violent Wind Staff
+5 16 13 10 6 0 1 20 //Red Wing Staff
+5 17 13 10 6 0 1 20 //Ancient Staff
+5 18 13 10 6 0 1 20 //Black Rose Staff
+5 19 13 10 6 0 1 20 //Aura Staff
+5 20 13 10 6 0 1 20 //Lilium Staff
+5 21 13 10 6 0 1 20 //Book of Sahamutt
+5 22 13 10 6 0 1 20 //Book of Neil
+
+Wings:
+12 41 13 10 6 0 1 20 //Wing of Misery
+12 42 13 10 6 0 1 20 //Wing of Despair
+12 43 13 10 6 0 1 20 //Wing of Violent Wind
+
+Scroll:
+15 19 0 0 0 0 0 //Scroll of Drain Life
+15 20 0 0 0 0 0 //Scroll of Chain Lightning
+15 21 0 0 0 0 0 //Scroll of Electric Surge
+15 22 0 0 0 0 0 //Scroll of Damage Reflex
+15 23 0 0 0 0 0 //Scroll of Night
+15 24 0 0 0 0 0 //Scroll of Sleep
+15 25 0 0 0 0 0 //Scroll of MagicSpeed Up
+15 26 0 0 0 0 0 //Scroll of MagicDefense Up
+
+
+
+MG
+
+Cod:
+Storm Crow:
+8 15 0 255 0 0 0 //Armor
+9 15 0 255 0 0 0 //Pants
+10 15 0 255 0 0 0 //Gloves
+11 15 0 255 0 0 0 //Boots
+
+Thunder Hawk:
+8 20 0 255 0 0 0 //Armor
+9 20 0 255 0 0 0 //Pants
+10 20 0 255 0 0 0 //Gloves
+11 20 0 255 0 0 0 //Boots
+Hurricane:
+8 23 0 255 0 0 0 //Armor
+9 23 0 255 0 0 0 //Pants
+10 23 0 255 0 0 0 //Gloves
+11 23 0 255 0 0 0 //Boots
+
+Valiant:
+8 37 0 255 0 0 0 //Armor
+9 37 0 255 0 0 0 //Pants
+10 37 0 255 0 0 0 //Gloves
+11 37 0 255 0 0 0 //Boots
+
+Vulcano:
+8 32 0 255 0 0 0 //Armor
+9 32 0 255 0 0 0 //Pants
+10 32 0 255 0 0 0 //Gloves
+11 32 0 255 0 0 0 //Boots
+
+
+Swords:
+0 18 0 255 0 0 0 //Thunder Blade
+0 31 0 255 0 0 0 //Rune Blade
+0 21 0 255 0 0 0 //Dark Reign Blade
+0 23 0 255 0 0 0 //Explosion Blade
+0 25 0 255 0 0 0 //Sword Dancer
+
+Wings:
+12 6 0 255 0 0 0 //Wing of Darkness
+12 39 0 255 0 0 0 //Wings of Hurricane
+
+
+Skills:
+12 16 0 255 0 0 0 //Power Slash
+
+
+
+DL
+
+Cod:
+Light Plate:
+7 25 0 255 0 0 0 //Mask
+8 25 0 255 0 0 0 //Armor
+9 25 0 255 0 0 0 //Pants
+10 25 0 255 0 0 0 //Gloves
+11 25 0 255 0 0 0 //Boots
+
+Adamantine:
+7 26 0 255 0 0 0 //Mask
+8 26 0 255 0 0 0 //Armor
+9 26 0 255 0 0 0 //Pants
+10 26 0 255 0 0 0 //Gloves
+11 26 0 255 0 0 0 //Boots
+
+Dark Steel:
+7 27 0 255 0 0 0 //Mask
+8 27 0 255 0 0 0 //Armor
+9 27 0 255 0 0 0 //Pants
+10 27 0 255 0 0 0 //Gloves
+11 27 0 255 0 0 0 //Boots
+
+Dark Master
+7 28 0 255 0 0 0 //Mask
+8 28 0 255 0 0 0 //Armor
+9 28 0 255 0 0 0 //Pants
+10 28 0 255 0 0 0 //Gloves
+11 28 0 255 0 0 0 //Boots
+
+Glorious:
+7 38 0 255 0 0 0 //Mask
+8 38 0 255 0 0 0 //Armor
+9 38 0 255 0 0 0 //Pants
+10 38 0 255 0 0 0 //Gloves
+11 38 0 255 0 0 0 //Boots
+
+Sunlight:
+7 33 0 255 0 0 0 //Mask
+8 33 0 255 0 0 0 //Armor
+9 33 0 255 0 0 0 //Pants
+10 33 0 255 0 0 0 //Gloves
+11 33 0 255 0 0 0 //Boots
+
+Scepters:
+2 8 0 255 0 0 0 //Battle Scepter
+2 9 0 255 0 0 0 //Master Scepter
+2 10 0 255 0 0 0 //Great Scepter
+2 11 0 255 0 0 0 //Lord Scepter
+2 12 0 255 0 0 0 //Great Lord Scepter
+2 14 0 255 0 0 0 //Solay Scepter
+2 13 0 255 0 0 0 //Divine Scepter of Archangel
+2 15 0 255 0 0 0 //Shining Scepter
+
+Wings:
+13 30 0 255 0 0 0 //Cape of Lord
+12 40 0 255 0 0 0 //Mantle of Monarch
+
+Spells:
+12 21 0 255 0 0 0 //Firebruts Spell
+12 23 0 255 0 0 0 //Critical Damage Spell
+12 24 0 255 0 0 0 //Electric Spark Spell
+12 22 0 255 0 0 0 //Summon Spell
+12 35 0 255 0 0 0 //Fire Scream Spell
+
+
+
+Stuff
+
+Cod:
+Item Bags:
+14 11 8 255 0 0 0 //Box of Kundun +1
+14 11 9 255 0 0 0 //Box of Kundun +2
+14 11 10 255 0 0 0 //Box of Kundun +3
+14 11 11 255 0 0 0 //Box of Kundun +4
+14 11 12 255 0 0 0 //Box of Kundun +5
+14 11 0 255 0 0 0 //Box of Luck
+14 11 7 255 0 0 0 //Box of Heaven
+14 11 3 255 0 0 0 //Heart of Love
+14 11 5 255 0 0 0 //Silver Medal
+14 11 6 255 0 0 0 //Gold Medal
+14 11 2 255 0 0 0 //Firecracker
+14 11 1 255 0 0 0 //Star of Sacred Birth
+14 11 13 255 0 0 0 //Heart of Dark Lord
+14 11 14 255 0 0 0 //Blue Luck Pouch
+14 11 15 255 0 0 0 //Red Luck Pouch
+14 34 0 255 0 0 0 //Blue Chocolate Box
+14 32 0 255 0 0 0 //Pink Chocolate Box
+14 33 0 255 0 0 0 //Red Chocolate Box
+14 52 0 255 0 0 0 //GM Box
+14 55 0 255 0 0 0 //Green Mistery Box
+14 56 0 255 0 0 0 //Pink Mistery Box
+14 57 0 255 0 0 0 //Purple Mistery Box
+
+Potions and apples:
+14 0 0 255 0 0 0 //Apple
+14 8 0 255 0 0 0 //Antidote
+14 1 0 255 0 0 0 //Small Healing Potion
+14 2 0 255 0 0 0 //Medium Healing Potion
+14 3 0 255 0 0 0 //Large Healing Potion
+14 4 0 255 0 0 0 //Small Mana Potion
+14 5 0 255 0 0 0 //Medium Mana Potion
+14 6 0 255 0 0 0 //Large Mana Potion
+14 35 0 255 0 0 0 //Small SD Potion
+14 36 0 255 0 0 0 //Medium SD Potion
+14 37 0 255 0 0 0 //Large SD Potion
+14 38 0 255 0 0 0 //Small AG Potion
+14 39 0 255 0 0 0 //Medium AG Potion
+14 40 0 255 0 0 0 //Large AG Potion
+
+Pets:
+13 0 0 255 0 0 0 //Guardian Angel
+13 1 0 255 0 0 0 //Imp
+13 2 0 255 0 0 0 //Horn of Uniria
+13 3 0 255 0 0 0 //Horn of Dinorant
+13 4 0 255 0 0 0 //Dark Horse
+13 5 0 255 0 0 0 //Dark Raven
+13 6 0 255 0 0 0 //Horn of Doom
+13 37 0 255 0 0 0 //Red Fenrir
+13 37 1 255 0 0 0 //Black Fenrir
+13 37 2 255 0 0 0 //Blue Fenrir
+13 37 4 255 0 0 0 //Golden Fenrir
+
+
+
+
+Jewels:
+12 15 0 255 0 0 0 //Jewel of Chaos
+14 13 0 255 0 0 0 //Jewel of Bless
+14 14 0 255 0 0 0 //Jewel of Soul
+14 16 0 255 0 0 0 //Jewel of Life
+14 22 0 255 0 0 0 //Jewel of Creation
+14 31 0 255 0 0 0 //Jewel of Guardian
+14 42 0 255 0 0 0 //Jewel of Harmony
+
+Quest Item:
+14 23 0 255 0 0 0 //Scroll of Emperor
+14 24 0 255 0 0 0 //Broken Sword
+14 25 0 255 0 0 0 //Tear Of Elf
+14 26 0 255 0 0 0 //Soul of Wizard
+14 24 1 255 0 0 0 //Dark Stone
+14 23 0 255 0 0 0 //Ring of Honor
+14 68 0 255 0 0 0 //Eye Ebyss
+
+BC and DS:
+13 16 1 255 0 0 0 //Scroll of Archangel +1
+13 16 2 255 0 0 0 //Scroll of Archangel +2
+13 16 3 255 0 0 0 //Scroll of Archangel +3
+13 16 4 255 0 0 0 //Scroll of Archangel +4
+13 16 5 255 0 0 0 //Scroll of Archangel +5
+13 16 6 255 0 0 0 //Scroll of Archangel +6
+13 16 7 255 0 0 0 //Scroll of Archangel +7
+13 17 1 255 0 0 0 //Blood Bone +1
+13 17 2 255 0 0 0 //Blood Bone +2
+13 17 3 255 0 0 0 //Blood Bone +3
+13 17 4 255 0 0 0 //Blood Bone+4
+13 17 5 255 0 0 0 //Blood Bone +5
+13 18 6 255 0 0 0 //Blood Bone +6
+13 18 7 255 0 0 0 //Blood Bone +7
+13 18 1 255 0 0 0 //Invisiblity Cloak +1
+13 18 2 255 0 0 0 //Invisiblity Cloak +2
+13 18 3 255 0 0 0 //Invisiblity Cloak +3
+13 18 4 255 0 0 0 //Invisiblity Cloak +4
+13 18 5 255 0 0 0 //Invisiblity Cloak +5
+13 18 6 255 0 0 0 //Invisiblity Cloak +6
+13 18 7 255 0 0 0 //Invisiblity Cloak +7
+14 18 1 255 0 0 0 //Devil Key +1
+14 18 2 255 0 0 0 //Devil Key +2
+14 18 3 255 0 0 0 //Devil Key +3
+14 18 4 255 0 0 0 //Devil Key +4
+14 18 5 255 0 0 0 //Devil Key +5
+14 18 6 255 0 0 0 //Devil Key +6
+14 17 1 255 0 0 0 //Devil Eye +1
+14 17 2 255 0 0 0 //Devil Eye +2
+14 17 3 255 0 0 0 //Devil Eye +3
+14 17 4 255 0 0 0 //Devil Eye +4
+14 17 5 255 0 0 0 //Devil Eye +5
+14 17 6 255 0 0 0 //Devil Eye +6
+14 19 1 255 0 0 0 //Devil Invitation+1
+14 19 2 255 0 0 0 //Devil Invitation+2
+14 19 3 255 0 0 0 //Devil Invitation+3
+14 19 4 255 0 0 0 //Devil Invitation+4
+14 19 5 255 0 0 0 //Devil Invitation+5
+14 19 6 255 0 0 0 //Devil Invitation+6
+
+Rings and Pendents:
+13 8 0 255 0 0 0 //Ring of Ice
+13 9 0 255 0 0 0 //Ring of Poison
+13 21 0 255 0 0 0 //Ring of Fire
+13 22 0 255 0 0 0 //Ring of Earth
+13 23 0 255 0 0 0 //Ring of Wind
+13 24 0 255 0 0 0 //Ring of Magic
+13 12 0 255 0 0 0 //Pendant of Lightning
+13 13 0 255 0 0 0 //Pendant of Fire
+13 25 0 255 0 0 0 //Pendant of Ice
+13 26 0 255 0 0 0 //Pendant of Wind
+13 27 0 255 0 0 0 //Pendant of Water
+13 28 0 255 0 0 0 //Pendant of Ability
+13 10 0 255 0 0 0 //Budge Dragon Transformation Ring
+13 10 1 255 0 0 0 //Giant Transformation Ring
+13 10 2 255 0 0 0 //Skeleton Transformation Ring
+13 10 3 255 0 0 0 //Thunder Lich Transformation Ring
+13 10 4 255 0 0 0 //Poison Bull Transformation Ring
+13 10 5 255 0 0 0 //Death Cow Transformation Ring
+13 20 0 255 0 0 0 //Wizards Ring
+13 20 1 255 0 0 0 //Warrior of Ring
+13 20 2 255 0 0 0 //Warrior of Ring
+13 20 3 255 0 0 0 //Ring of Beer
+13 38 0 255 0 0 0 //Moonstone Ring
+13 39 0 255 0 0 0 //S3 Ring 1
+13 40 0 255 0 0 0 //S3 Ring 2
+13 41 0 255 0 0 0 //S3 Ring 3
+13 42 0 255 0 0 0 //GM Ring
+
+Others:
+14 9 0 255 0 0 0 //Alcohol
+14 27 0 255 0 0 0 //Ancient Metal
+13 29 0 255 0 0 0 //Armor of Guardman
+14 12 0 255 0 0 0 //Castle Siege Zen
+14 12 1 255 0 0 0 //Castle Siege Heart
+13 14 1 255 0 0 0 //Crest of Monarch
+14 41 0 255 0 0 0 //Gemstone
+14 44 0 255 0 0 0 //Higher refining stone
+12 30 0 255 0 0 0 //Jewel of Bless +1
+12 30 1 255 0 0 0 //Jewel of Bless +2
+12 30 2 255 0 0 0 //Jewel of Bless +3
+12 31 0 255 0 0 0 //Jewel of Soul +1
+12 31 1 255 0 0 0 //Jewel of Soul +2
+12 31 2 255 0 0 0 //Jewel of Soul +3
+13 14 0 255 0 0 0 //Loch Feather
+14 28 1 255 0 0 0 //Lost Map +1
+14 28 2 255 0 0 0 //Lost Map +2
+14 28 3 255 0 0 0 //Lost Map +3
+14 28 4 255 0 0 0 //Lost Map +4
+14 28 5 255 0 0 0 //Lost Map +5
+14 28 6 255 0 0 0 //Lost Map +6
+14 28 7 255 0 0 0 //Lost Map +7
+14 43 0 255 0 0 0 //Lower refining stone
+14 7 0 255 0 0 0 //Potion of Bless
+14 7 1 255 0 0 0 //Potion of Soul
+14 20 0 255 0 0 0 //Remedy of Love
+14 21 0 255 0 0 0 //Rena
+14 29 1 255 0 0 0 //Sing of Kundun +1
+14 29 2 255 0 0 0 //Sing of Kundun +2
+14 29 3 255 0 0 0 //Sing of Kundun +3
+14 29 4 255 0 0 0 //Sing of Kundun +4
+14 29 5 255 0 0 0 //Sing of Kundun +5
+14 29 6 255 0 0 0 //Sing of Kundun +6
+14 29 7 255 0 0 0 //Sing of Kundun +7
+14 10 0 255 0 0 0 //Town Portal Scroll
+13 32 0 255 0 0 0 //Splinter Armor
+13 33 0 255 0 0 0 //Bless of Guardian
+13 34 0 255 0 0 0 //Claw of Beast
+13 35 0 255 0 0 0 //Piece of Horn
+13 36 0 255 0 0 0 //Broken Horn
+13 43 0 255 0 0 0 //Green Symbol
+13 44 0 255 0 0 0 //Pink Symbol
+13 45 0 255 0 0 0 //Yellow Symbol
+13 49 0 255 0 0 0 //S3 Scrool
+13 50 0 255 0 0 0 //S3 Potion
+13 51 0 255 0 0 0 //Illusion Teacher Platform
+13 52 0 255 0 0 0 //Flame of Condor
+13 53 0 255 0 0 0 //Feather of Condor
+14 12 2 255 0 0 0 //Chaos Event Coupon
+14 45 0 255 0 0 0 //Haloween Pumpkin 1
+14 46 0 255 0 0 0 //Haloween Scrool 1
+14 47 0 255 0 0 0 //Haloween Scrool 2
+14 48 0 255 0 0 0 //Haloween Scrool 3
+14 49 0 255 0 0 0 //Haloween Strange Item
+14 50 0 255 0 0 0 //Haloween Pumpkin 2
+14 51 0 255 0 0 0 //Star
+14 64 0 255 0 0 0 //Strange Item
+14 65 0 255 0 0 0 //Flame of Death Beam Knight
+14 66 0 255 0 0 0 //Horn of Hell Maine
+14 67 0 255 0 0 0 //Feather of Phoenix of Darkness
+
+
+
+New Intem
+
+Cod:
+New swords
+0 26 0 255 0 0 0 //DragonMu Hammer
+0 27 0 255 0 0 0 //Blood Sword
+0 28 0 255 0 0 0 //Kundan Blade
+0 29 0 255 0 0 0 //Arhangel Guard
+0 30 0 255 0 0 0 //Balgass Minion
+0 32 0 255 0 0 0 //Ice Breaker
+0 33 0 255 0 0 0 //Curse Blade
+0 34 0 255 0 0 0 //Demonic Day Breaker
+0 35 0 255 0 0 0 //Samurai Katana
+0 36 0 255 0 0 0 //Death Reign Blade
+0 37 0 255 0 0 0 //Shadow Blade Sword
+0 38 0 255 0 0 0 //Shadow Short Sword
+
+New Axe
+1 9 0 255 0 0 0 //Berserc Axe
+1 10 0 255 0 0 0 //Gigantis Axe
+1 11 0 255 0 0 0 //Blunt Beast Axe
+1 12 0 255 0 0 0 //Art of Battle Ax
+1 13 0 255 0 0 0 //Duel Axe
+1 14 0 255 0 0 0 //Evil Rabbit Axe
+1 15 0 255 0 0 0 //Shadow War Axe
+1 16 0 255 0 0 0 //Werewolf Axe
+1 17 0 255 0 0 0 //Sirr Blade
+1 18 0 255 0 0 0 //Heavens Divider
+
+New Mace & scepter
+2 16 0 255 0 0 0 //Death three mace
+2 17 0 255 0 0 0 //Scout Hammer
+2 18 0 255 0 0 0 //Shadow Scepter
+2 19 0 255 0 0 0 //Sceleton Scepter
+2 20 0 255 0 0 0 //Larken Scepter
+2 21 0 255 0 0 0 //Dark King
+2 22 0 255 0 0 0 //Death Spirit
+2 23 0 255 0 0 0 //Conquer Scepter
+2 24 0 255 0 0 0 //Ice Storm Hammer
+
+New Spear
+3 11 0 255 0 0 0 //Lizard Scythe
+3 12 0 255 0 0 0 //Siege Guard Spear
+3 13 0 255 0 0 0 //Dreadfear Spear
+3 14 0 255 0 0 0 //Twin Tail Spear
+3 15 0 255 0 0 0 //Scout Spear
+3 16 0 255 0 0 0 //Werewolf Spear
+3 17 0 255 0 0 0 //Bill of Balgass
+
+New Staff
+5 14 0 255 0 0 0 //Mistery Staff
+5 15 0 255 0 0 0 //Violent Wind Staff
+5 16 0 255 0 0 0 //Red Wing Staff
+5 17 0 255 0 0 0 //Ancient Staff
+5 18 0 255 0 0 0 //Real Staff
+5 19 0 255 0 0 0 //Dark Moon Staff
+5 20 0 255 0 0 0 //Sun light Staff
+5 21 0 255 0 0 0 //Sun light Staff2
+
+New Bow & Crossbow
+4 23 0 255 0 0 0 //Prado Bow
+4 24 0 255 0 0 0 //Ultimate Bown
+4 25 0 255 0 0 0 //Mejor Crosbow
+
+New shield
+6 17 0 255 0 0 0 //Blood Spirit Shield
+6 18 0 255 0 0 0 //Siege Guard Shield
+6 19 0 255 0 0 0 //Doom Shield
+
+
+
+New Set
+
+Cod:
+Helm
+7 39 0 255 0 0 0 //Mistery
+7 40 0 255 0 0 0 //Red Wing
+7 41 0 255 0 0 0 //Ancient
+7 42 0 255 0 0 0 //Black Rose Pants
+7 43 0 255 0 0 0 //Aura Pants
+7 44 0 255 0 0 0 //Lilium Pants
+7 45 0 255 0 0 0 //Red Lord Plate
+7 46 0 255 0 0 0 //Dark Emperor
+7 47 0 255 0 0 0 //Dark Blue
+7 48 0 255 0 0 0 //Gild Master
+7 49 0 255 0 0 0 //Kentauros
+7 50 0 255 0 0 0 //Ceremony Spirit
+7 51 0 255 0 0 0 //Night Mare
+
+Armor
+8 39 0 255 0 0 0 //Mistery
+8 40 0 255 0 0 0 //Red Wing
+8 41 0 255 0 0 0 //Ancient
+8 42 0 255 0 0 0 //Black Rose Pants
+8 43 0 255 0 0 0 //Aura Pants
+8 44 0 255 0 0 0 //Lilium Pants
+8 45 0 255 0 0 0 //Red Lord Plate
+8 46 0 255 0 0 0 //Dark Emperor
+8 47 0 255 0 0 0 //Dark Blue
+8 48 0 255 0 0 0 //Gild Master
+8 49 0 255 0 0 0 //Kentauros
+8 50 0 255 0 0 0 //Ceremony Spirit
+8 51 0 255 0 0 0 //Night Mare
+Pants
+9 39 0 255 0 0 0 //Mistery
+9 40 0 255 0 0 0 //Red Wing
+9 41 0 255 0 0 0 //Ancient
+9 42 0 255 0 0 0 //Black Rose Pants
+9 43 0 255 0 0 0 //Aura Pants
+9 44 0 255 0 0 0 //Lilium Pants
+9 45 0 255 0 0 0 //Red Lord Plate
+9 46 0 255 0 0 0 //Dark Emperor
+9 47 0 255 0 0 0 //Dark Blue
+9 48 0 255 0 0 0 //Gild Master
+9 49 0 255 0 0 0 //Kentauros
+9 50 0 255 0 0 0 //Ceremony Spirit
+9 51 0 255 0 0 0 //Night Mare
+
+Gloves
+10 39 0 255 0 0 0 //Mistery
+10 40 0 255 0 0 0 //Red Wing
+10 41 0 255 0 0 0 //Ancient
+10 42 0 255 0 0 0 //Black Rose Pants
+10 43 0 255 0 0 0 //Aura Pants
+10 44 0 255 0 0 0 //Lilium Pants
+10 45 0 255 0 0 0 //Red Lord Plate
+10 46 0 255 0 0 0 //Dark Emperor
+10 47 0 255 0 0 0 //Dark Blue
+10 48 0 255 0 0 0 //Gild Master
+10 49 0 255 0 0 0 //Kentauros
+10 50 0 255 0 0 0 //Ceremony Spirit
+10 51 0 255 0 0 0 //Night Mare
+
+Boots
+11 39 0 255 0 0 0 //Mistery
+11 40 0 255 0 0 0 //Red Wing
+11 41 0 255 0 0 0 //Ancient
+11 42 0 255 0 0 0 //Black Rose Pants
+11 43 0 255 0 0 0 //Aura Pants
+11 44 0 255 0 0 0 //Lilium Pants
+11 45 0 255 0 0 0 //Red Lord Plate
+11 46 0 255 0 0 0 //Dark Emperor
+11 47 0 255 0 0 0 //Dark Blue
+11 48 0 255 0 0 0 //Gild Master
+11 49 0 255 0 0 0 //Kentauros
+11 50 0 255 0 0 0 //Ceremony Spirit
+11 51 0 255 0 0 0 //Night Mare
+
+0 38 0 255 0 0 0 //Night Mare Blade
+
+2 24 0 255 0 0 0 //Night Mare Scepter
+
+3 18 0 255 0 0 0 //Night Mare Spear
+
+32 0 255 0 0 0 // Night Mare Staff
+
+6 19 0 255 0 0 0 //Doom Shield
+
+7 51 0 255 0 0 0 //Night Mare
+
+8 51 0 255 0 0 0 //Night Mare
+
+9 51 0 255 0 0 0 //Night Mare
+
+10 51 0 255 0 0 0 //Night Mare
+
+11 51 0 255 0 0 0 //Night Mare
+
+12 44 0 255 0 0 0 //Wing of Night Mare
