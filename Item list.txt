@@ -1,0 +1,871 @@
++0 : No exe options
++1 : Increases acquisition rate of Zen after Hunting monster +40%
++2 : Defence success rate +10%
++4 : Reflect damage +5%
++8 : Damage decrease +4%
++16 : Increase Max mana +4%
++32 : Increase Max HP +4%
++63 : To all the above listed options
+
+Command/Group/Item ID/Options/    Name     
+Group    ID    Lvl    Skill    Luck    Life    Exc    Name
+Swords    
+/item 0 0 0 0 0 0 0 0 0 0     Kris
+/item 0 1 0 0 0 0 0 0 0 0     Short Sword
+/item 0 2 0 0 0 0 0 0 0 0    Rapier
+/item 0 3 0 0 0 0 0 0 0 0    Katana
+/item 0 4 0 0 0 0 0 0 0 0    Sword of Assassin
+/item 0 5 0 1 0 0 0 0 0 0    Blade
+/item 0 6 0 0 0 0 0 0 0 0    Gladius
+/item 0 7 0 0 0 0 0 0 0 0    Falchion
+/item 0 8 0 0 0 0 0 0 0 0    Serpent Sword
+/item 0 9 0 0 0 0 0 0 0 0    Sword of Salamander
+/item 0 10 0 0 0 0 0 0 0 0    Light Saber
+/item 0 11 0 0 0 0 0 0 0 0    Legendary Sword
+/item 0 12 0 0 0 0 0 0 0 0    Heliacal Sword
+/item 0 13 0 0 0 0 0 0 0 0    Double Blade
+/item 0 14 0 0 0 0 0 0 0 0    Lighting Sword
+/item 0 15 0 0 0 0 0 0 0 0    Giant Sword
+/item 0 16 0 0 0 0 0 0 0 0    Sword of Destruction
+/item 0 17 0 0 0 0 0 0 0 0    Dark Breaker
+/item 0 18 0 0 0 0 0 0 0 0    Thunder Blade
+/item 0 19 0 0 0 0 0 0 0 0    Sword of Archangel
+/item 0 20 0 0 0 0 0 0 0 0    Knight Blade
+/item 0 21 0 0 0 0 0 0 0 0    Dark Reign Blade
+/item 0 22 0 0 0 0 0 0 0 0    Bone Blade
+/item 0 23 0 0 0 0 0 0 0 0    Explosion Blade
+/item 0 24 0 0 0 0 0 0 0 0    Daybreak
+/item 0 25 0 0 0 0 0 0 0 0    Sword Dancer
+/item 0 26 0 0 0 0 0 0 0 0    Flameberge
+/item 0 27 0 0 0 0 0 0 0 0    Sword Breaker
+/item 0 28 0 0 0 0 0 0 0 0    Rune Bastard Sword
+/item 0 31 0 0 0 0 0 0 0 0    Rune Blade
+/item 0 32 0 0 0 0 0 0 0 0    Sacred Glove
+/item 0 33 0 0 0 0 0 0 0 0    Holly Storm Claws
+/item 0 34 0 0 0 0 0 0 0 0    Piercing Glove
+Axes    
+/item 1 0 0 0 0 0 0 0 0    0     Small Axe
+/item 1 1 0 0 0 0 0 0 0 0    Hand Axe
+/item 1 2 0 0 0 0 0 0 0 0    Double Axe
+/item 1 3 0 0 0 0 0 0 0 0    Tomahawk
+/item 1 4 0 0 0 0 0 0 0 0    Elven Axe
+/item 1 5 0 0 0 0 0 0 0 0    Battle Axe
+/item 1 6 0 0 0 0 0 0 0 0    Nikea Axe
+/item 1 7 0 0 0 0 0 0 0 0    Larkan Axe
+/item 1 8 0 0 0 0 0 0 0 0    Crescent Axe
+Maces/Blunt Weapons    
+/item 2 0 0 0 0 0 0 0 0    0     Mace
+/item 2 1 0 0 0 0 0 0 0 0    Morning Star
+/item 2 2 0 0 0 0 0 0 0 0    Flail
+/item 2 3 0 0 0 0 0 0 0 0    Great Hammer
+/item 2 4 0 0 0 0 0 0 0 0    Crystal Morning Star
+/item 2 5 0 0 0 0 0 0 0 0    Crystal Sword
+/item 2 6 0 0 0 0 0 0 0 0    Chaos Dragon Axe
+/item 2 7 0 0 0 0 0 0 0 0    Elemental Mace
+/item 2 8 0 0 0 0 0 0 0 0    Battle Scepter
+/item 2 9 0 0 0 0 0 0 0 0    Master Scepter
+/item 2 10 0 0 0 0 0 0 0 0    Great Scepter
+/item 2 11 0 0 0 0 0 0 0 0    Lord Scepter
+/item 2 12 0 0 0 0 0 0 0 0    Great Lord Scepter
+/item 2 13 0 0 0 0 0 0 0 0    Scepter of Archangel
+/item 2 14 0 0 0 0 0 0 0 0    Soleil Sceptor
+/item 2 15 0 0 0 0 0 0 0 0    Shining Scepter
+/item 2 16 0 0 0 0 0 0 0 0    Frost Mace
+/item 2 17 0 0 0 0 0 0 0 0    Absolute Scepter
+/item 2 18 0 0 0 0 0 0 0 0    Striker Scepter
+Spears    
+/item 3 0 0 0 0 0 0 0 0 0     Light Spear
+/item 3 1 0 0 0 0 0 0 0 0    Spear
+/item 3 2 0 0 0 0 0 0 0 0    Dragon Lance
+/item 3 3 0 0 0 0 0 0 0 0    Giant Trident
+/item 3 4 0 0 0 0 0 0 0 0    Serpent Spear
+/item 3 5 0 0 0 0 0 0 0 0    Double Poleaxe
+/item 3 6 0 0 0 0 0 0 0 0    Halberd
+/item 3 7 0 0 0 0 0 0 0 0    Berdysh
+/item 3 8 0 0 0 0 0 0 0 0    Great Scythe
+/item 3 9 0 0 0 0 0 0 0 0    Bill of Balrog
+/item 3 10 0 0 0 0 0 0 0 0    Dragon Spear
+/item 3 11 0 0 0 0 0 0 0 0    Brova
+Bows/Chrossbows/Ammo    
+/item 4 0 0 0 0 0 0 0 0    0     Short Bow
+/item 4 1 0 0 0 0 0 0 0 0    Bow
+/item 4 2 0 0 0 0 0 0 0 0    Elven Bow
+/item 4 3 0 0 0 0 0 0 0 0    Battle Bow
+/item 4 4 0 0 0 0 0 0 0 0    Tiger Bow
+/item 4 5 0 0 0 0 0 0 0 0    Silver Bow
+/item 4 6 0 0 0 0 0 0 0 0    Chaos Nature Bow
+/item 4 7 0 0 0 0 0 0 0 0    Bolt
+/item 4 8 0 0 0 0 0 0 0 0    Crossbow
+/item 4 9 0 0 0 0 0 0 0 0    Golden Crossbow
+/item 4 10 0 0 0 0 0 0 0 0    Arquebus
+/item 4 11 0 0 0 0 0 0 0 0    Light Crossbow
+/item 4 12 0 0 0 0 0 0 0 0    Serpent Crossbow
+/item 4 13 0 0 0 0 0 0 0 0    Bluewing Crossbow
+/item 4 14 0 0 0 0 0 0 0 0    Aquagold Crossbow
+/item 4 15 0 0 0 0 0 0 0 0    Arrow
+/item 4 16 0 0 0 0 0 0 0 0    Saint Crossbow
+/item 4 17 0 0 0 0 0 0 0 0    Celestial Bow
+/item 4 18 0 0 0 0 0 0 0 0    Crossbow of Archangel
+/item 4 19 0 0 0 0 0 0 0 0    Great Reign Crossbow
+/item 4 20 0 0 0 0 0 0 0 0    Arrow Viper Bow
+/item 4 21 0 0 0 0 0 0 0 0    Sylph Wind Bow
+/item 4 22 0 0 0 0 0 0 0 0    Albatross Bow
+/item 4 23 0 0 0 0 0 0 0 0    Dark Stinger
+/item 4 24 0 0 0 0 0 0 0 0    Aileen Bow
+Staffs/Sticks/Summoner Books    
+/item 5 0 0 0 0 0 0 0 0    0     Skull Staff
+/item 5 1 0 0 0 0 0 0 0 0    Angelic Staff
+/item 5 2 0 0 0 0 0 0 0 0    Serpent Staff
+/item 5 3 0 0 0 0 0 0 0 0    Thunder Staff
+/item 5 4 0 0 0 0 0 0 0 0    Gorgon Staff
+/item 5 5 0 0 0 0 0 0 0 0    Legendary Staff
+/item 5 6 0 0 0 0 0 0 0 0    Staff of Resurrection
+/item 5 7 0 0 0 0 0 0 0 0    Chaos Lighting Staff
+/item 5 8 0 0 0 0 0 0 0 0    Staff of Destruction
+/item 5 9 0 0 0 0 0 0 0 0    Dragon Soul Staff
+/item 5 10 0 0 0 0 0 0 0 0    Staff of Archangel
+/item 5 11 0 0 0 0 0 0 0 0    Staff of Kundun
+/item 5 12 0 0 0 0 0 0 0 0    Grand Viper Staff
+/item 5 13 0 0 0 0 0 0 0 0    Platina Staff
+/item 5 14 0 0 0 0 0 0 0 0    Mystery Stick
+/item 5 15 0 0 0 0 0 0 0 0    Violent Wind Stick
+/item 5 16 0 0 0 0 0 0 0 0    Red Wing Stick
+/item 5 17 0 0 0 0 0 0 0 0    Ancient Stick
+/item 5 18 0 0 0 0 0 0 0 0    Demonic Stick
+/item 5 19 0 0 0 0 0 0 0 0    Storm Blitz Stick
+/item 5 21 0 0 0 0 0 0 0 0    Book of Samut
+/item 5 22 0 0 0 0 0 0 0 0    Book of Neil
+/item 5 23 0 0 0 0 0 0 0 0    Book of Lagle
+/item 5 30 0 0 0 0 0 0 0 0    Deadly Staff
+/item 5 31 0 0 0 0 0 0 0 0    Inberial Staff
+/item 5 33 0 0 0 0 0 0 0 0    Chromatic Staff
+/item 5 34 0 0 0 0 0 0 0 0    Raven Stick
+Shields    
+/item 6 0 0 0 0 0 0 0 0    0     Small Shield
+/item 6 1 0 0 0 0 0 0 0 0    Horn Shield
+/item 6 2 0 0 0 0 0 0 0 0    Kite Shield
+/item 6 3 0 0 0 0 0 0 0 0    Elven Shield
+/item 6 4 0 0 0 0 0 0 0 0    Buckler
+/item 6 5 0 0 0 0 0 0 0 0    Dragon Slayer Shield
+/item 6 6 0 0 0 0 0 0 0 0    Skull Shield
+/item 6 7 0 0 0 0 0 0 0 0    Spiked Shield
+/item 6 8 0 0 0 0 0 0 0 0    Tower Shield
+/item 6 9 0 0 0 0 0 0 0 0    Plate Shield
+/item 6 10 0 0 0 0 0 0 0 0    Large Round Shield
+/item 6 11 0 0 0 0 0 0 0 0    Serpent Shield
+/item 6 12 0 0 0 0 0 0 0 0    Bronze Shield
+/item 6 13 0 0 0 0 0 0 0 0    Dragon Shield
+/item 6 14 0 0 0 0 0 0 0 0    Legendary Shield
+/item 6 15 0 0 0 0 0 0 0 0    Grand Soul Shield
+/item 6 16 0 0 0 0 0 0 0 0    Elemental Shield
+/item 6 17 0 0 0 0 0 0 0 0    Crimson Glory
+/item 6 18 0 0 0 0 0 0 0 0    Salamander Shield
+/item 6 19 0 0 0 0 0 0 0 0    Frost Barrier
+/item 6 20 0 0 0 0 0 0 0 0    Guardian Shield
+/item 6 21 0 0 0 0 0 0 0 0    Cross Shield
+Helms    
+/item 7 0 0 0 0 0 0 0 0    0     Bronze Helm
+/item 7 1 0 0 0 0 0 0 0 0    Dragon Helm
+/item 7 2 0 0 0 0 0 0 0 0    Pad Helm
+/item 7 3 0 0 0 0 0 0 0 0    Legendary Helm
+/item 7 4 0 0 0 0 0 0 0 0    Bone Helm
+/item 7 5 0 0 0 0 0 0 0 0    Leather Helm
+/item 7 6 0 0 0 0 0 0 0 0    Scale Helm
+/item 7 7 0 0 0 0 0 0 0 0    Sphinx Mask
+/item 7 8 0 0 0 0 0 0 0 0    Brass Helm
+/item 7 9 0 0 0 0 0 0 0 0    Plate Helm
+/item 7 10 0 0 0 0 0 0 0 0    Vine Helm
+/item 7 11 0 0 0 0 0 0 0 0    Silk Helm
+/item 7 12 0 0 0 0 0 0 0 0    Wind Helm
+/item 7 13 0 0 0 0 0 0 0 0    Spirit Helm
+/item 7 14 0 0 0 0 0 0 0 0    Guardian Helm
+/item 7 16 0 0 0 0 0 0 0 0    Black Dragon Helm
+/item 7 17 0 0 0 0 0 0 0 0    Dark Phoenix Helm
+/item 7 18 0 0 0 0 0 0 0 0    Grand Soul Helm
+/item 7 19 0 0 0 0 0 0 0 0    Divine Helm
+/item 7 21 0 0 0 0 0 0 0 0    Great Dragon Helm
+/item 7 22 0 0 0 0 0 0 0 0    Dark Soul Helm
+/item 7 24 0 0 0 0 0 0 0 0    Red Spirit Helm
+/item 7 25 0 0 0 0 0 0 0 0    Light Plate Mask
+/item 7 26 0 0 0 0 0 0 0 0    Adamantine Mask
+/item 7 27 0 0 0 0 0 0 0 0    Dark Steel Mask
+/item 7 28 0 0 0 0 0 0 0 0    Dark Master Mask
+/item 7 29 0 0 0 0 0 0 0 0    Dragon Knight Helm
+/item 7 30 0 0 0 0 0 0 0 0    Venom Mist Helm
+/item 7 31 0 0 0 0 0 0 0 0    Sylphid Ray Helm
+/item 7 33 0 0 0 0 0 0 0 0    Sunlight Mask
+/item 7 34 0 0 0 0 0 0 0 0    Ashcrow Helm
+/item 7 35 0 0 0 0 0 0 0 0    Eclipse Helm
+/item 7 36 0 0 0 0 0 0 0 0    Iris Helm
+/item 7 38 0 0 0 0 0 0 0 0    Glorious Mask
+/item 7 39 0 0 0 0 0 0 0 0    Violent Wind Helm
+/item 7 40 0 0 0 0 0 0 0 0    Red Wing Helm
+/item 7 41 0 0 0 0 0 0 0 0    Ancient Helm
+/item 7 42 0 0 0 0 0 0 0 0    Demonic Helm
+/item 7 43 0 0 0 0 0 0 0 0    Storm Blitz Helm
+/item 7 45 0 0 0 0 0 0 0 0    Titan  Helm
+/item 7 46 0 0 0 0 0 0 0 0    Brave Helm
+/item 7 49 0 0 0 0 0 0 0 0    Seraphim Helm
+/item 7 50 0 0 0 0 0 0 0 0    Divine Helm
+/item 7 51 0 0 0 0 0 0 0 0    Royal Mask
+/item 7 52 0 0 0 0 0 0 0 0    Hades Helm
+/item 7 59 0 0 0 0 0 0 0 0    Sacred Helm
+/item 7 60 0 0 0 0 0 0 0 0    Storm Hard Helm
+/item 7 61 0 0 0 0 0 0 0 0    Piercing Helm
+/item 7 62 0 0 0 0 0 0 0 0    Helm 62
+/item 7 63 0 0 0 0 0 0 0 0    Helm 63
+/item 7 64 0 0 0 0 0 0 0 0    Helm 64
+/item 7 65 0 0 0 0 0 0 0 0    Helm 65
+/item 7 66 0 0 0 0 0 0 0 0    Helm 66
+/item 7 67 0 0 0 0 0 0 0 0    Helm 67
+/item 7 68 0 0 0 0 0 0 0 0    Helm 68
+/item 7 69 0 0 0 0 0 0 0 0    Helm 69
+/item 7 70 0 0 0 0 0 0 0 0    Helm 70
+/item 7 72 0 0 0 0 0 0 0 0    Helm 71
+Armors    
+/item 8 0 0 0 0 0 0 0 0    0     Bronze Armor
+/item 8 1 0 0 0 0 0 0 0 0    Dragon Armor
+/item 8 2 0 0 0 0 0 0 0 0    Pad Armor
+/item 8 3 0 0 0 0 0 0 0 0    Legendary Armor
+/item 8 4 0 0 0 0 0 0 0 0    Bone Armor
+/item 8 5 0 0 0 0 0 0 0 0    Leather Armor
+/item 8 6 0 0 0 0 0 0 0 0    Scale Armor
+/item 8 7 0 0 0 0 0 0 0 0    Sphinx Armor
+/item 8 8 0 0 0 0 0 0 0 0    Brass Armor
+/item 8 9 0 0 0 0 0 0 0 0    Plate Armor
+/item 8 10 0 0 0 0 0 0 0 0    Vine Armor
+/item 8 11 0 0 0 0 0 0 0 0    Silk Armor
+/item 8 12 0 0 0 0 0 0 0 0    Wind Armor
+/item 8 13 0 0 0 0 0 0 0 0    Spirit Armor
+/item 8 14 0 0 0 0 0 0 0 0    Guardian Armor
+/item 8 15 0 0 0 0 0 0 0 0    Storm Crow Armor
+/item 8 16 0 0 0 0 0 0 0 0    Black Dragon Armor
+/item 8 17 0 0 0 0 0 0 0 0    Dark Phoenix Armor
+/item 8 18 0 0 0 0 0 0 0 0    Grand Soul Armor
+/item 8 19 0 0 0 0 0 0 0 0    Divine Armor
+/item 8 20 0 0 0 0 0 0 0 0    Thunder Hawk Armor
+/item 8 21 0 0 0 0 0 0 0 0    Great Dragon Armor
+/item 8 22 0 0 0 0 0 0 0 0    Dark Soul Armor
+/item 8 23 0 0 0 0 0 0 0 0    Hurricane Armor
+/item 8 24 0 0 0 0 0 0 0 0    Red Sprit Armor
+/item 8 25 0 0 0 0 0 0 0 0    Light Plate Armor
+/item 8 26 0 0 0 0 0 0 0 0    Adamantine Armor
+/item 8 27 0 0 0 0 0 0 0 0    Dark Steel Armor
+/item 8 28 0 0 0 0 0 0 0 0    Dark Master Armor
+/item 8 29 0 0 0 0 0 0 0 0    Dragon Knight Armor
+/item 8 30 0 0 0 0 0 0 0 0    Venom Mist Armor
+/item 8 31 0 0 0 0 0 0 0 0    Sylphid Ray Armor
+/item 8 32 0 0 0 0 0 0 0 0    Volcano Armor
+/item 8 33 0 0 0 0 0 0 0 0    Sunlight Armor
+/item 8 34 0 0 0 0 0 0 0 0    Ashcrow Armor
+/item 8 35 0 0 0 0 0 0 0 0    Eclipse Armor
+/item 8 36 0 0 0 0 0 0 0 0    Iris Armor
+/item 8 37 0 0 0 0 0 0 0 0    Valiant Armor
+/item 8 38 0 0 0 0 0 0 0 0    Glorious Armor
+/item 8 39 0 0 0 0 0 0 0 0    Violent Wind Armor
+/item 8 40 0 0 0 0 0 0 0 0    Red Wing Armor
+/item 8 41 0 0 0 0 0 0 0 0    Ancient Armor
+/item 8 42 0 0 0 0 0 0 0 0    Demonic Armor
+/item 8 43 0 0 0 0 0 0 0 0    Storm Blitz Armor
+/item 8 45 0 0 0 0 0 0 0 0    Titan  Armor
+/item 8 46 0 0 0 0 0 0 0 0    Brave Armor
+/item 8 47 0 0 0 0 0 0 0 0    Phantom  Armor
+/item 8 48 0 0 0 0 0 0 0 0    Destroy Armor
+/item 8 49 0 0 0 0 0 0 0 0    Seraphim Armor
+/item 8 50 0 0 0 0 0 0 0 0    Divine Armor
+/item 8 51 0 0 0 0 0 0 0 0    Royal Armor
+/item 8 52 0 0 0 0 0 0 0 0    Hades Armor
+/item 8 59 0 0 0 0 0 0 0 0    Sacred Armor
+/item 8 60 0 0 0 0 0 0 0 0    Storm Hard Armor
+/item 8 61 0 0 0 0 0 0 0 0    Piercing Armor
+/item 8 62 0 0 0 0 0 0 0 0    Armor 62
+/item 8 63 0 0 0 0 0 0 0 0    Armor 63
+/item 8 64 0 0 0 0 0 0 0 0    Armor 64
+/item 8 65 0 0 0 0 0 0 0 0    Armor 65
+/item 8 66 0 0 0 0 0 0 0 0    Armor 66
+/item 8 67 0 0 0 0 0 0 0 0    Armor 67
+/item 8 68 0 0 0 0 0 0 0 0    Armor 68
+/item 8 69 0 0 0 0 0 0 0 0    Armor 69
+/item 8 70 0 0 0 0 0 0 0 0    Armor 70
+/item 8 71 0 0 0 0 0 0 0 0    Armor 71
+/item 8 72 0 0 0 0 0 0 0 0    Armor 72
+Pants    
+/item 9 0 0 0 0 0 0 0 0    0     Bronze Pants
+/item 9 1 0 0 0 0 0 0 0 0    Dragon Pants
+/item 9 2 0 0 0 0 0 0 0 0    Pad Pants
+/item 9 3 0 0 0 0 0 0 0 0    Legendary Pants
+/item 9 4 0 0 0 0 0 0 0 0    Bone Pants
+/item 9 5 0 0 0 0 0 0 0 0    Leather Pants
+/item 9 6 0 0 0 0 0 0 0 0    Scale Pants
+/item 9 7 0 0 0 0 0 0 0 0    Sphinx Pants
+/item 9 8 0 0 0 0 0 0 0 0    Brass Pants
+/item 9 9 0 0 0 0 0 0 0 0    Plate Pants
+/item 9 10 0 0 0 0 0 0 0 0    Vine Pants
+/item 9 11 0 0 0 0 0 0 0 0    Silk Pants
+/item 9 12 0 0 0 0 0 0 0 0    Wind Pants
+/item 9 13 0 0 0 0 0 0 0 0    Spirit Pants
+/item 9 14 0 0 0 0 0 0 0 0    Guardian Pants
+/item 9 15 0 0 0 0 0 0 0 0    Storm Crow Pants
+/item 9 16 0 0 0 0 0 0 0 0    Black Dragon Pants
+/item 9 17 0 0 0 0 0 0 0 0    Dark Phoenix Pants
+/item 9 18 0 0 0 0 0 0 0 0    Grand Soul Pants
+/item 9 19 0 0 0 0 0 0 0 0    Divine Pants
+/item 9 20 0 0 0 0 0 0 0 0    Thunder Hawk Pants
+/item 9 21 0 0 0 0 0 0 0 0    Great Dragon Pants
+/item 9 22 0 0 0 0 0 0 0 0    Dark Soul Pants
+/item 9 23 0 0 0 0 0 0 0 0    Hurricane Pants
+/item 9 24 0 0 0 0 0 0 0 0    Red Spirit Pants
+/item 9 25 0 0 0 0 0 0 0 0    Light Plate Pants
+/item 9 26 0 0 0 0 0 0 0 0    Adamantine Pants
+/item 9 27 0 0 0 0 0 0 0 0    Dark Steel Pants
+/item 9 28 0 0 0 0 0 0 0 0    Dark Master Pants
+/item 9 29 0 0 0 0 0 0 0 0    Dragon Knight Pants
+/item 9 30 0 0 0 0 0 0 0 0    Venom Mist Pants
+/item 9 31 0 0 0 0 0 0 0 0    Sylphid Ray Pants
+/item 9 32 0 0 0 0 0 0 0 0    Volcano Pants
+/item 9 33 0 0 0 0 0 0 0 0    Sunlight Pants
+/item 9 34 0 0 0 0 0 0 0 0    Ashcrow Pants
+/item 9 35 0 0 0 0 0 0 0 0    Eclipse Pants
+/item 9 36 0 0 0 0 0 0 0 0    Iris Pants
+/item 9 37 0 0 0 0 0 0 0 0    Valiant Pants
+/item 9 38 0 0 0 0 0 0 0 0    Glorious Pants
+/item 9 39 0 0 0 0 0 0 0 0    Violent Wind Pants
+/item 9 40 0 0 0 0 0 0 0 0    Red Wing Pants
+/item 9 41 0 0 0 0 0 0 0 0    Ancient Pants
+/item 9 42 0 0 0 0 0 0 0 0    Demonic Pants
+/item 9 43 0 0 0 0 0 0 0 0    Storm Blitz Pants
+/item 9 45 0 0 0 0 0 0 0 0    Titan  Pants
+/item 9 46 0 0 0 0 0 0 0 0    Brave Pants
+/item 9 47 0 0 0 0 0 0 0 0    Phantom  Pants
+/item 9 48 0 0 0 0 0 0 0 0    Destroy Pants
+/item 9 49 0 0 0 0 0 0 0 0    Seraphim Pants
+/item 9 50 0 0 0 0 0 0 0 0    Divine Pants
+/item 9 51 0 0 0 0 0 0 0 0    Royal Pants
+/item 9 52 0 0 0 0 0 0 0 0    Hades Pants
+/item 9 59 0 0 0 0 0 0 0 0    Sacred Pants
+/item 9 60 0 0 0 0 0 0 0 0    Storm Hard Pants
+/item 9 61 0 0 0 0 0 0 0 0    Piercing Pants
+/item 9 62 0 0 0 0 0 0 0 0    Pants 62
+/item 9 63 0 0 0 0 0 0 0 0    Pants 63
+/item 9 64 0 0 0 0 0 0 0 0    Pants 64
+/item 9 65 0 0 0 0 0 0 0 0    Pants 65
+/item 9 66 0 0 0 0 0 0 0 0    Pants 66
+/item 9 67 0 0 0 0 0 0 0 0    Pants 67
+/item 9 68 0 0 0 0 0 0 0 0    Pants 68
+/item 9 69 0 0 0 0 0 0 0 0    Pants 69
+/item 9 70 0 0 0 0 0 0 0 0    Pants 70
+/item 9 71 0 0 0 0 0 0 0 0    Pants 71
+/item 9 72 0 0 0 0 0 0 0 0    Pants 72
+Gloves    
+/item 10 0 0 0 0 0 0 0 0 0    Bronze Gloves
+/item 10 1 0 0 0 0 0 0 0 0    Dragon Gloves
+/item 10 2 0 0 0 0 0 0 0 0    Pad Gloves
+/item 10 3 0 0 0 0 0 0 0 0    Legendary Gloves
+/item 10 4 0 0 0 0 0 0 0 0    Bone Gloves
+/item 10 5 0 0 0 0 0 0 0 0    Leather Gloves
+/item 10 6 0 0 0 0 0 0 0 0    Scale Gloves
+/item 10 7 0 0 0 0 0 0 0 0    Sphinx Gloves
+/item 10 8 0 0 0 0 0 0 0 0    Brass Gloves
+/item 10 9 0 0 0 0 0 0 0 0    Plate Gloves
+/item 10 10 0 0 0 0 0 0 0 0    Vine Gloves
+/item 10 11 0 0 0 0 0 0 0 0    Silk Gloves
+/item 10 12 0 0 0 0 0 0 0 0    Wind Gloves
+/item 10 13 0 0 0 0 0 0 0 0    Spirit Gloves
+/item 10 14 0 0 0 0 0 0 0 0    Guardian Gloves
+/item 10 15 0 0 0 0 0 0 0 0    Storm Crow Gloves
+/item 10 16 0 0 0 0 0 0 0 0    Black Dragon Gloves
+/item 10 17 0 0 0 0 0 0 0 0    Dark Phoenix Gloves
+/item 10 18 0 0 0 0 0 0 0 0    Grand Soul Gloves
+/item 10 19 0 0 0 0 0 0 0 0    Divine Gloves
+/item 10 20 0 0 0 0 0 0 0 0    Thunder Hawk Gloves
+/item 10 21 0 0 0 0 0 0 0 0    Great Dragon Gloves
+/item 10 22 0 0 0 0 0 0 0 0    Dark Soul Gloves
+/item 10 23 0 0 0 0 0 0 0 0    Hurricane Gloves
+/item 10 24 0 0 0 0 0 0 0 0    Red Spirit Gloves
+/item 10 25 0 0 0 0 0 0 0 0    Light Plate Gloves
+/item 10 26 0 0 0 0 0 0 0 0    Adamantine Gloves
+/item 10 27 0 0 0 0 0 0 0 0    Dark Steel Gloves
+/item 10 28 0 0 0 0 0 0 0 0    Dark Master Gloves
+/item 10 29 0 0 0 0 0 0 0 0    Dragon Knight Gloves
+/item 10 30 0 0 0 0 0 0 0 0    Venom Mist Gloves
+/item 10 31 0 0 0 0 0 0 0 0    Sylphid Ray Gloves
+/item 10 32 0 0 0 0 0 0 0 0    Volcano Gloves
+/item 10 33 0 0 0 0 0 0 0 0    Sunlight Gloves
+/item 10 34 0 0 0 0 0 0 0 0    Ashcrow Gloves
+/item 10 35 0 0 0 0 0 0 0 0    Eclipse Gloves
+/item 10 36 0 0 0 0 0 0 0 0    Iris Gloves
+/item 10 37 0 0 0 0 0 0 0 0    Valiant Gloves
+/item 10 38 0 0 0 0 0 0 0 0    Glorious Gloves
+/item 10 39 0 0 0 0 0 0 0 0    Violent Wind Gloves
+/item 10 40 0 0 0 0 0 0 0 0    Red Wing Gloves
+/item 10 41 0 0 0 0 0 0 0 0    Ancient Gloves
+/item 10 42 0 0 0 0 0 0 0 0    Demonic Gloves
+/item 10 43 0 0 0 0 0 0 0 0    Storm Blitz Gloves
+/item 10 45 0 0 0 0 0 0 0 0    Titan  Gloves
+/item 10 46 0 0 0 0 0 0 0 0    Brave Gloves
+/item 10 47 0 0 0 0 0 0 0 0    Phantom  Gloves
+/item 10 48 0 0 0 0 0 0 0 0    Destroy Gloves
+/item 10 49 0 0 0 0 0 0 0 0    Seraphim Gloves
+/item 10 50 0 0 0 0 0 0 0 0    Divine Gloves
+/item 10 51 0 0 0 0 0 0 0 0    Royal Gloves
+/item 10 52 0 0 0 0 0 0 0 0    Hades Gloves
+/item 10 62 0 0 0 0 0 0 0 0    Gloves 62
+/item 10 63 0 0 0 0 0 0 0 0    Gloves 63
+/item 10 64 0 0 0 0 0 0 0 0    Gloves 64
+/item 10 65 0 0 0 0 0 0 0 0    Gloves 65
+/item 10 66 0 0 0 0 0 0 0 0    Gloves 66
+/item 10 67 0 0 0 0 0 0 0 0    Gloves 67
+/item 10 68 0 0 0 0 0 0 0 0    Gloves 68
+/item 10 69 0 0 0 0 0 0 0 0    Gloves 69
+/item 10 70 0 0 0 0 0 0 0 0    Gloves 70
+/item 10 71 0 0 0 0 0 0 0 0    Gloves 71
+Boots    
+/item 11 0 0 0 0 0 0 0 0 0     Bronze Boots
+/item 11 1 0 0 0 0 0 0 0 0    Dragon Boots
+/item 11 2 0 0 0 0 0 0 0 0    Pad Boots
+/item 11 3 0 0 0 0 0 0 0 0    Legendary Boots
+/item 11 4 0 0 0 0 0 0 0 0    Bone Boots
+/item 11 5 0 0 0 0 0 0 0 0    Leather Boots
+/item 11 6 0 0 0 0 0 0 0 0    Scale Boots
+/item 11 7 0 0 0 0 0 0 0 0    Sphinx Boots
+/item 11 8 0 0 0 0 0 0 0 0    Brass Boots
+/item 11 9 0 0 0 0 0 0 0 0    Plate Boots
+/item 11 10 0 0 0 0 0 0 0 0    Vine Boots
+/item 11 11 0 0 0 0 0 0 0 0    Silk Boots
+/item 11 12 0 0 0 0 0 0 0 0    Wind Boots
+/item 11 13 0 0 0 0 0 0 0 0    Spirit Boots
+/item 11 14 0 0 0 0 0 0 0 0    Guardian Boots
+/item 11 15 0 0 0 0 0 0 0 0    Storm Crow Boots
+/item 11 16 0 0 0 0 0 0 0 0    Black Dragon Boots
+/item 11 17 0 0 0 0 0 0 0 0    Dark Phoenix Boots
+/item 11 18 0 0 0 0 0 0 0 0    Grand Soul Boots
+/item 11 19 0 0 0 0 0 0 0 0    Divine Boots
+/item 11 20 0 0 0 0 0 0 0 0    Thunder Hawk Boots
+/item 11 21 0 0 0 0 0 0 0 0    Great Dragon Boots
+/item 11 22 0 0 0 0 0 0 0 0    Dark Soul Boots
+/item 11 23 0 0 0 0 0 0 0 0    Hurricane Boots
+/item 11 24 0 0 0 0 0 0 0 0    Red Spirit Boots
+/item 11 25 0 0 0 0 0 0 0 0    Light Plate Boots
+/item 11 26 0 0 0 0 0 0 0 0    Adamantine Boots
+/item 11 27 0 0 0 0 0 0 0 0    Dark Steel Boots
+/item 11 28 0 0 0 0 0 0 0 0    Dark Master Boots
+/item 11 29 0 0 0 0 0 0 0 0    Dragon Knight Boots
+/item 11 30 0 0 0 0 0 0 0 0    Venom Mist Boots
+/item 11 31 0 0 0 0 0 0 0 0    Sylphid Ray Boots
+/item 11 32 0 0 0 0 0 0 0 0    Volcano Boots
+/item 11 33 0 0 0 0 0 0 0 0    Sunlight Boots
+/item 11 34 0 0 0 0 0 0 0 0    Ashcrow Boots
+/item 11 35 0 0 0 0 0 0 0 0    Eclipse Boots
+/item 11 36 0 0 0 0 0 0 0 0    Iris Boots
+/item 11 37 0 0 0 0 0 0 0 0    Valiant Boots
+/item 11 38 0 0 0 0 0 0 0 0    Glorious Boots
+/item 11 39 0 0 0 0 0 0 0 0    Violent Wind Boots
+/item 11 40 0 0 0 0 0 0 0 0    Red Wing Boots
+/item 11 41 0 0 0 0 0 0 0 0    Ancient Boots
+/item 11 42 0 0 0 0 0 0 0 0    Demonic Boots
+/item 11 43 0 0 0 0 0 0 0 0    Storm Blitz Boots
+/item 11 45 0 0 0 0 0 0 0 0    Titan Boots
+/item 11 46 0 0 0 0 0 0 0 0    Brave Boots
+/item 11 47 0 0 0 0 0 0 0 0    Phantom Boots
+/item 11 48 0 0 0 0 0 0 0 0    Destroy Boots
+/item 11 49 0 0 0 0 0 0 0 0    Seraphim Boots
+/item 11 50 0 0 0 0 0 0 0 0    Divine Boots
+/item 11 51 0 0 0 0 0 0 0 0    Royal Boots
+/item 11 52 0 0 0 0 0 0 0 0    Hades Boots
+/item 11 59 0 0 0 0 0 0 0 0    Sacred Boots
+/item 11 60 0 0 0 0 0 0 0 0    Storm Hard Boots
+/item 11 61 0 0 0 0 0 0 0 0    Piercing Boots
+/item 11 62 0 0 0 0 0 0 0 0    Boots 62
+/item 11 63 0 0 0 0 0 0 0 0    Boots 63
+/item 11 64 0 0 0 0 0 0 0 0    Boots 64
+/item 11 65 0 0 0 0 0 0 0 0    Boots 65
+/item 11 66 0 0 0 0 0 0 0 0    Boots 66
+/item 11 67 0 0 0 0 0 0 0 0    Boots 67
+/item 11 68 0 0 0 0 0 0 0 0    Boots 68
+/item 11 69 0 0 0 0 0 0 0 0    Boots 69
+/item 11 70 0 0 0 0 0 0 0 0    Boots 70
+/item 11 71 0 0 0 0 0 0 0 0    Boots 71
+/item 11 72 0 0 0 0 0 0 0 0    Boots 72
+Wings/Consumables    
+/item 12 0 0 0 0 0 0 0 0 0     Wings of Elf
+/item 12 1 0 0 0 0 0 0 0 0    Wings of Heaven
+/item 12 2 0 0 0 0 0 0 0 0    Wings of Satan
+/item 12 3 0 0 0 0 0 0 0 0    Wings of Spirits
+/item 12 4 0 0 0 0 0 0 0 0    Wings of Soul
+/item 12 5 0 0 0 0 0 0 0 0    Wings of Dragon
+/item 12 6 0 0 0 0 0 0 0 0    Wings of Darkness
+/item 12 7 0 0 0 0 0 0 0 0    Orb of Twisting Slash
+/item 12 8 0 0 0 0 0 0 0 0    Healing Orb
+/item 12 9 0 0 0 0 0 0 0 0    Orb of Greater Fortitude
+/item 12 10 0 0 0 0 0 0 0 0    Orb of Greater Damage
+/item 12 11 0 0 0 0 0 0 0 0    Orb of Summoning
+/item 12 12 0 0 0 0 0 0 0 0    Orb of Rageful Blow
+/item 12 13 0 0 0 0 0 0 0 0    Orb of Impale
+/item 12 14 0 0 0 0 0 0 0 0    Orb of Greater Fortitude
+/item 12 15 0 0 0 0 0 0 0 0    Jewel of Chaos
+/item 12 16 0 0 0 0 0 0 0 0    Orb of Fire Slash
+/item 12 17 0 0 0 0 0 0 0 0    Orb of Penetration
+/item 12 18 0 0 0 0 0 0 0 0    Orb of Ice Arrow
+/item 12 19 0 0 0 0 0 0 0 0    Orb of Death Stab
+/item 12 21 0 0 0 0 0 0 0 0    Scroll of FireBurst
+/item 12 22 0 0 0 0 0 0 0 0    Scroll of Summon
+/item 12 23 0 0 0 0 0 0 0 0    Scroll of Critical Damage
+/item 12 24 0 0 0 0 0 0 0 0    Scroll of Electric Spark
+/item 12 26 0 0 0 0 0 0 0 0    gem of secret
+/item 12 30 0 0 0 0 0 0 0 0    bundle of Jewel of Bless
+/item 12 31 0 0 0 0 0 0 0 0    budle of Jewel of Soul
+/item 12 32 0 0 0 0 0 0 0 0    box of red ribbon
+/item 12 33 0 0 0 0 0 0 0 0    box of green ribbon
+/item 12 34 0 0 0 0 0 0 0 0    box of blue ribbon
+/item 12 35 0 0 0 0 0 0 0 0    Scroll of Fire Scream
+/item 12 36 0 0 0 0 0 0 0 0    Wing of Storm
+/item 12 37 0 0 0 0 0 0 0 0    Wing of Eternal
+/item 12 38 0 0 0 0 0 0 0 0    Wing of Illusion
+/item 12 39 0 0 0 0 0 0 0 0    Wing of Ruin
+/item 12 40 0 0 0 0 0 0 0 0    Cape of Emperor
+/item 12 41 0 0 0 0 0 0 0 0    Wing of Curse
+/item 12 42 0 0 0 0 0 0 0 0    Wind of Despair
+/item 12 43 0 0 0 0 0 0 0 0    Wing of Dimension
+/item 12 44 0 0 0 0 0 0 0 0    Crystal of Destruction
+/item 12 45 0 0 0 0 0 0 0 0    Crystal of Multi-Shot
+/item 12 46 0 0 0 0 0 0 0 0    Crystal of Recovery
+/item 12 47 0 0 0 0 0 0 0 0    Crystal of Flame Strike
+/item 12 48 0 0 0 0 0 0 0 0    Scroll of Chaotic Diseier
+/item 12 49 0 0 0 0 0 0 0 0    Cloak of Warrior
+/item 12 50 0 0 0 0 0 0 0 0    Lord of the Cape
+/item 12 60 0 0 0 0 0 0 0 0    Seed (Fire)
+/item 12 61 0 0 0 0 0 0 0 0    Seed (Water)
+/item 12 62 0 0 0 0 0 0 0 0    Seed (Ice)
+/item 12 63 0 0 0 0 0 0 0 0    Seed (Wind)
+/item 12 64 0 0 0 0 0 0 0 0    Seed (Lightning)
+/item 12 65 0 0 0 0 0 0 0 0    Seed (Earth)
+/item 12 70 0 0 0 0 0 0 0 0    Sphere (Mono)
+/item 12 71 0 0 0 0 0 0 0 0    스피어(디)
+/item 12 72 0 0 0 0 0 0 0 0    스피어(트리)
+/item 12 100 0 0 0 0 0 0 0 0    Seed Sphere (Fire)
+/item 12 101 0 0 0 0 0 0 0 0    Seed Sphere (Water)
+/item 12 102 0 0 0 0 0 0 0 0    Seed Sphere (Ice)
+/item 12 103 0 0 0 0 0 0 0 0    Seed Sphere (Wind)
+/item 12 104 0 0 0 0 0 0 0 0    Seed Sphere (Lightning)
+/item 12 105 0 0 0 0 0 0 0 0    Seed Sphere (Earth)
+/item 12 106 0 0 0 0 0 0 0 0    Seed Sphere (Fire)
+/item 12 107 0 0 0 0 0 0 0 0    Seed Sphere (Water)
+/item 12 108 0 0 0 0 0 0 0 0    Seed Sphere (Ice)
+/item 12 109 0 0 0 0 0 0 0 0    Seed Sphere (Wind)
+/item 12 110 0 0 0 0 0 0 0 0    Seed Sphere (Lightning)
+/item 12 111 0 0 0 0 0 0 0 0    Seed Sphere (Earth)
+/item 12 112 0 0 0 0 0 0 0 0    Seed Sphere (Fire)
+/item 12 113 0 0 0 0 0 0 0 0    Seed Sphere (Water)
+/item 12 114 0 0 0 0 0 0 0 0    Seed Sphere (Ice)
+/item 12 115 0 0 0 0 0 0 0 0    Seed Sphere (Wind)
+/item 12 116 0 0 0 0 0 0 0 0    Seed Sphere (Lightning)
+/item 12 117 0 0 0 0 0 0 0 0    Seed Sphere (Earth)
+/item 12 118 0 0 0 0 0 0 0 0    Seed Sphere (Fire)
+/item 12 119 0 0 0 0 0 0 0 0    Seed Sphere (Water)
+/item 12 120 0 0 0 0 0 0 0 0    Seed Sphere (Ice)
+/item 12 121 0 0 0 0 0 0 0 0    Seed Sphere (Wind)
+/item 12 122 0 0 0 0 0 0 0 0    Seed Sphere (Lightning)
+/item 12 123 0 0 0 0 0 0 0 0    Seed Sphere (Earth)
+/item 12 124 0 0 0 0 0 0 0 0    Seed Sphere (Fire)
+/item 12 125 0 0 0 0 0 0 0 0    Seed Sphere (Water)
+/item 12 126 0 0 0 0 0 0 0 0    Seed Sphere (Ice)
+/item 12 127 0 0 0 0 0 0 0 0    Seed Sphere (Wind)
+/item 12 128 0 0 0 0 0 0 0 0    Seed Sphere (Lightning)
+/item 12 129 0 0 0 0 0 0 0 0    Seed Sphere (Earth)
+/item 12 130 0 0 0 0 0 0 0 0    Small Cape of Lords
+/item 12 131 0 0 0 0 0 0 0 0    Small Wings of Curse
+/item 12 132 0 0 0 0 0 0 0 0    Small Wings of Elf
+/item 12 133 0 0 0 0 0 0 0 0    Small Wings of Heaven
+/item 12 134 0 0 0 0 0 0 0 0    Small Wings of Satan
+/item 12 135 0 0 0 0 0 0 0 0    Small Cloak of Warrior
+    
+/item 13 0 0 0 0 0 0 0 0 0     Guardian Angel
+/item 13 1 0 0 0 0 0 0 0 0    Imp
+/item 13 2 0 0 0 0 0 0 0 0    Horn of Uniria
+/item 13 3 0 0 0 0 0 0 0 0    Horn of Dinorant
+/item 13 4 0 0 0 0 0 0 0 0    Dark Horse
+/item 13 5 0 0 0 0 0 0 0 0    Dark Raven
+/item 13 7 0 0 0 0 0 0 0 0    Contract (Summon)
+/item 13 8 0 0 0 0 0 0 0 0    Ring of Ice
+/item 13 9 0 0 0 0 0 0 0 0    Ring of Poison
+/item 13 10 0 0 0 0 0 0 0 0    Transformation Ring
+/item 13 11 0 0 0 0 0 0 0 0    Order (Guardian/Life Stone)
+/item 13 12 0 0 0 0 0 0 0 0    Pendant of Lighting
+/item 13 13 0 0 0 0 0 0 0 0    Pendant of Fire
+/item 13 14 0 0 0 0 0 0 0 0    Loch's Feather
+/item 13 15 0 0 0 0 0 0 0 0    Fruits
+/item 13 16 0 0 0 0 0 0 0 0    Scroll of Archangel
+/item 13 17 0 0 0 0 0 0 0 0    Blood Bone
+/item 13 18 0 0 0 0 0 0 0 0    Invisibility Cloak
+/item 13 19 0 0 0 0 0 0 0 0    Absolute Weapon of Archangel
+/item 13 20 0 0 0 0 0 0 0 0    Wizards Ring
+/item 13 21 0 0 0 0 0 0 0 0    Ring of Fire
+/item 13 22 0 0 0 0 0 0 0 0    Ring of Earth
+/item 13 23 0 0 0 0 0 0 0 0    Ring of Wind
+/item 13 24 0 0 0 0 0 0 0 0    Ring of Magic
+/item 13 25 0 0 0 0 0 0 0 0    Pendant of Ice
+/item 13 26 0 0 0 0 0 0 0 0    Pendant of Wind
+/item 13 27 0 0 0 0 0 0 0 0    Pendant of Water
+/item 13 28 0 0 0 0 0 0 0 0    Pendant of Ability
+/item 13 29 0 0 0 0 0 0 0 0    Armor of Guardsman
+/item 13 30 0 0 0 0 0 0 0 0    Cape of Lord
+/item 13 31 0 0 0 0 0 0 0 0    Spirit
+/item 13 32 0 0 0 0 0 0 0 0    Splinter of Armor
+/item 13 33 0 0 0 0 0 0 0 0    Bless of Guardian
+/item 13 34 0 0 0 0 0 0 0 0    Claw of Beast
+/item 13 35 0 0 0 0 0 0 0 0    Fragment of Horn
+/item 13 36 0 0 0 0 0 0 0 0    Broken Horn
+/item 13 37 0 0 0 0 0 0 0 0    Horn of Fenrir
+/item 13 38 0 0 0 0 0 0 0 0    Moonstone Pendant
+/item 13 39 0 0 0 0 0 0 0 0    Eilte Transfer Skeleton Ring
+/item 13 40 0 0 0 0 0 0 0 0    Jack Olantern Ring
+/item 13 41 0 0 0 0 0 0 0 0    Transfer Christmas Ring
+/item 13 42 0 0 0 0 0 0 0 0    Ring of GM
+/item 13 43 0 0 0 0 0 0 0 0    Seal of Ascension
+/item 13 44 0 0 0 0 0 0 0 0    Seal of Wealth
+/item 13 45 0 0 0 0 0 0 0 0    Seal of Sustenance
+/item 13 46 0 0 0 0 0 0 0 0    Devil Square Ticket
+/item 13 47 0 0 0 0 0 0 0 0    Blood Castle Ticket
+/item 13 48 0 0 0 0 0 0 0 0    Kalima Ticket
+/item 13 49 0 0 0 0 0 0 0 0    Old Scroll
+/item 13 50 0 0 0 0 0 0 0 0    Illusion Sorcerer Covenant
+/item 13 51 0 0 0 0 0 0 0 0    Scroll of Blood
+/item 13 52 0 0 0 0 0 0 0 0    Condor Flame
+/item 13 53 0 0 0 0 0 0 0 0    Condor Feather
+/item 13 54 0 0 0 0 0 0 0 0    Reset Fruit Strength
+/item 13 55 0 0 0 0 0 0 0 0    Reset Fruit Quickness
+/item 13 56 0 0 0 0 0 0 0 0    Reset Fruit Health
+/item 13 57 0 0 0 0 0 0 0 0    Reset Fruit Energy
+/item 13 58 0 0 0 0 0 0 0 0    Reset Fruit Control
+/item 13 59 0 0 0 0 0 0 0 0    Seal of Mobility
+/item 13 60 0 0 0 0 0 0 0 0    Indulgence
+/item 13 61 0 0 0 0 0 0 0 0    Illusion Temple Ticket
+/item 13 62 0 0 0 0 0 0 0 0    Seal of Healing
+/item 13 63 0 0 0 0 0 0 0 0    Seal of Divinity
+/item 13 64 0 0 0 0 0 0 0 0    Demon
+/item 13 65 0 0 0 0 0 0 0 0    Spirit of Guardian
+/item 13 66 0 0 0 0 0 0 0 0    Invitation to Santa Village
+/item 13 67 0 0 0 0 0 0 0 0    Pet Rudolf
+/item 13 68 0 0 0 0 0 0 0 0    Snowman Transformation Ring
+/item 13 69 0 0 0 0 0 0 0 0    Talisman of Resurrection
+/item 13 70 0 0 0 0 0 0 0 0    Talisman of Mobility
+/item 13 71 0 0 0 0 0 0 0 0    Sword/Mace/Spear
+/item 13 72 0 0 0 0 0 0 0 0    Staff
+/item 13 73 0 0 0 0 0 0 0 0    Bow/Crossbow
+/item 13 74 0 0 0 0 0 0 0 0    Scepter
+/item 13 75 0 0 0 0 0 0 0 0    Stick
+/item 13 76 0 0 0 0 0 0 0 0    Panda Ring
+/item 13 80 0 0 0 0 0 0 0 0    Pet Panda
+/item 13 81 0 0 0 0 0 0 0 0    Talisman of Guardian
+/item 13 82 0 0 0 0 0 0 0 0    Talisman of Item Protection
+/item 13 93 0 0 0 0 0 0 0 0    Master Seal of Ascension
+/item 13 94 0 0 0 0 0 0 0 0    Master Seal of Wealth
+/item 13 95 0 0 0 0 0 0 0 0    Gladiator's Honor
+/item 13 97 0 0 0 0 0 0 0 0    Item 13-97
+/item 13 98 0 0 0 0 0 0 0 0    Item 13-98
+/item 13 99 0 0 0 0 0 0 0 0    Item 13-99
+/item 13 109 0 0 0 0 0 0 0 0    Item 13-109
+/item 13 110 0 0 0 0 0 0 0 0    Item 13-110
+/item 13 111 0 0 0 0 0 0 0 0    Item 13-111
+/item 13 112 0 0 0 0 0 0 0 0    Item 13-112
+/item 13 113 0 0 0 0 0 0 0 0    Item 13-113
+/item 13 114 0 0 0 0 0 0 0 0    Item 13-114
+/item 13 115 0 0 0 0 0 0 0 0    Item 13-115
+/item 13 116 0 0 0 0 0 0 0 0    Item 13-116
+/item 13 117 0 0 0 0 0 0 0 0    Item 13-117
+/item 13 118 0 0 0 0 0 0 0 0    Item 13-118
+/item 13 119 0 0 0 0 0 0 0 0    Item 13-119
+/item 13 120 0 0 0 0 0 0 0 0    Item 13-120
+/item 13 121 0 0 0 0 0 0 0 0    Item 13-121
+/item 13 122 0 0 0 0 0 0 0 0    Skeleton Transformation Ring
+/item 13 123 0 0 0 0 0 0 0 0    Pet Skeleton
+/item 13 128 0 0 0 0 0 0 0 0    Item 13-128
+/item 13 129 0 0 0 0 0 0 0 0    Item 13-129
+/item 13 130 0 0 0 0 0 0 0 0    Item 13-130
+/item 13 131 0 0 0 0 0 0 0 0    Item 13-131
+/item 13 132 0 0 0 0 0 0 0 0    Item 13-132
+/item 13 133 0 0 0 0 0 0 0 0    Item 13-133
+/item 13 134 0 0 0 0 0 0 0 0    Item 13-134
+/item 13 135 0 0 0 0 0 0 0 0    Item 13-135
+/item 13 136 0 0 0 0 0 0 0 0    Item 13-136
+/item 13 137 0 0 0 0 0 0 0 0    Item 13-137
+/item 13 138 0 0 0 0 0 0 0 0    Item 13-138
+/item 13 139 0 0 0 0 0 0 0 0    Item 13-139
+/item 13 140 0 0 0 0 0 0 0 0    Item 13-140
+/item 13 141 0 0 0 0 0 0 0 0    Item 13-141
+/item 13 142 0 0 0 0 0 0 0 0    Item 13-142
+/item 13 143 0 0 0 0 0 0 0 0    Item 13-143
+/item 13 144 0 0 0 0 0 0 0 0    Item 13-144
+    
+/item 14 0 0 0 0 0 0 0 0 0     Apple
+/item 14 1 0 0 0 0 0 0 0 0    Small Healing Potion
+/item 14 2 0 0 0 0 0 0 0 0    Healing Potion
+/item 14 3 0 0 0 0 0 0 0 0    Large Healing Potion
+/item 14 4 0 0 0 0 0 0 0 0    Small Mana Potion
+/item 14 5 0 0 0 0 0 0 0 0    Mana Potion
+/item 14 6 0 0 0 0 0 0 0 0    Large Mana Potion
+/item 14 7 0 0 0 0 0 0 0 0    Siege Potion
+/item 14 8 0 0 0 0 0 0 0 0    Antidote
+/item 14 9 0 0 0 0 0 0 0 0    Ale
+/item 14 10 0 0 0 0 0 0 0 0    Town Portal Scroll
+/item 14 11 0 0 0 0 0 0 0 0    Box of Luck
+/item 14 12 0 0 0 0 0 0 0 0    Heart
+/item 14 13 0 0 0 0 0 0 0 0    Jewel of Bless
+/item 14 14 0 0 0 0 0 0 0 0    Jewel of Soul
+/item 14 15 0 0 0 0 0 0 0 0    Zen
+/item 14 16 0 0 0 0 0 0 0 0    Jewel of Life
+/item 14 17 0 0 0 0 0 0 0 0    Devil's Eye
+/item 14 18 0 0 0 0 0 0 0 0    Devil's Key
+/item 14 19 0 0 0 0 0 0 0 0    Devil's Invitation
+/item 14 20 0 0 0 0 0 0 0 0    Remedy of Love
+/item 14 21 0 0 0 0 0 0 0 0    Rena
+/item 14 22 0 0 0 0 0 0 0 0    Jewel of Creation
+/item 14 23 0 0 0 0 0 0 0 0    Scroll of the Emperor
+/item 14 24 0 0 0 0 0 0 0 0    Broken Sword
+/item 14 25 0 0 0 0 0 0 0 0    Tear of Elf
+/item 14 26 0 0 0 0 0 0 0 0    Soul Shard of Wizard
+/item 14 28 0 0 0 0 0 0 0 0    Lost Map
+/item 14 29 0 0 0 0 0 0 0 0    Symbol of Kundun
+/item 14 31 0 0 0 0 0 0 0 0    Jewel of Guardian
+/item 14 32 0 0 0 0 0 0 0 0    Pink Chocolate Box
+/item 14 33 0 0 0 0 0 0 0 0    Red Chocolate Box
+/item 14 34 0 0 0 0 0 0 0 0    Blue Chocolate Box
+/item 14 35 0 0 0 0 0 0 0 0    Small SD Potion
+/item 14 36 0 0 0 0 0 0 0 0    SD Potion
+/item 14 37 0 0 0 0 0 0 0 0    Large SD Potion
+/item 14 38 0 0 0 0 0 0 0 0    Small Complex Potion
+/item 14 39 0 0 0 0 0 0 0 0    Complex Potion
+/item 14 40 0 0 0 0 0 0 0 0    Large Complex Potion
+/item 14 41 0 0 0 0 0 0 0 0    Gemstone
+/item 14 42 0 0 0 0 0 0 0 0    Jewel of Harmony
+/item 14 43 0 0 0 0 0 0 0 0    Lower refining stone
+/item 14 44 0 0 0 0 0 0 0 0    Higher refining stone
+/item 14 45 0 0 0 0 0 0 0 0    Pumpkin of Luck
+/item 14 46 0 0 0 0 0 0 0 0    Jack Olantern Bleesings
+/item 14 47 0 0 0 0 0 0 0 0    Jack Olantern Wrath
+/item 14 48 0 0 0 0 0 0 0 0    Jack Olantern Cry
+/item 14 49 0 0 0 0 0 0 0 0    Jack Olantern Food
+/item 14 50 0 0 0 0 0 0 0 0    Jack Olantern Drink
+/item 14 51 0 0 0 0 0 0 0 0    Chistmas Star
+/item 14 52 0 0 0 0 0 0 0 0    GM Gift
+/item 14 53 0 0 0 0 0 0 0 0    Talisman of Luck
+/item 14 54 0 0 0 0 0 0 0 0    Chaos Card
+/item 14 55 0 0 0 0 0 0 0 0    Green Chaos Box
+/item 14 56 0 0 0 0 0 0 0 0    Red Chaos Box
+/item 14 57 0 0 0 0 0 0 0 0    Purple Chaos Box
+/item 14 63 0 0 0 0 0 0 0 0    Firecracker
+/item 14 64 0 0 0 0 0 0 0 0    Cursed Castle Water
+/item 14 65 0 0 0 0 0 0 0 0    Death-beam Knight Flame
+/item 14 66 0 0 0 0 0 0 0 0    Hell-Miner Horn
+/item 14 67 0 0 0 0 0 0 0 0    Dark Phoenix Feather
+/item 14 68 0 0 0 0 0 0 0 0    Abyssal Eye
+/item 14 70 15 0 0 0 0 0 0 0    Elite Healing Potion
+/item 14 71 10 0 0 0 0 0 0 0    Elite Mana Potion
+/item 14 72 0 0 0 0 0 0 0 0    Scroll of Quickness
+/item 14 73 0 0 0 0 0 0 0 0    Scroll of Defense
+/item 14 74 0 0 0 0 0 0 0 0    Scroll of Wrath
+/item 14 75 0 0 0 0 0 0 0 0    Scroll of Wizardry
+/item 14 76 0 0 0 0 0 0 0 0    Scroll of Health
+/item 14 77 0 0 0 0 0 0 0 0    Scroll of Mana
+/item 14 84 0 0 0 0 0 0 0 0    Cherry Blossom Play-Box
+/item 14 85 0 0 0 0 0 0 0 0    Cherry Blossom Wine
+/item 14 86 0 0 0 0 0 0 0 0    Cherry Blossom Rice Cake
+/item 14 87 0 0 0 0 0 0 0 0    Cherry Blossom Flower Petal
+/item 14 90 0 0 0 0 0 0 0 0    Golden Cherry Blossom Branch
+/item 14 96 0 0 0 0 0 0 0 0    Talisman of Chaos Assembly
+/item 14 97 0 0 0 0 0 0 0 0    Scroll of Battle
+/item 14 98 0 0 0 0 0 0 0 0    Scroll of Strengthener
+/item 14 99 0 0 0 0 0 0 0 0    Christmas Firecracker
+/item 14 100 0 0 0 0 0 0 0 0    Lucky Coin
+/item 14 101 0 0 0 0 0 0 0 0    Suspicious Scrap of Paper
+/item 14 102 0 0 0 0 0 0 0 0    Gaion's Order
+/item 14 103 0 0 0 0 0 0 0 0    First Secromicon Fragment
+/item 14 104 0 0 0 0 0 0 0 0    Second Secromicon Fragment
+/item 14 105 0 0 0 0 0 0 0 0    Third Secromicon Fragment
+/item 14 106 0 0 0 0 0 0 0 0    Fourth Secromicon Fragment
+/item 14 107 0 0 0 0 0 0 0 0    Fifth Secromicon Fragment
+/item 14 108 0 0 0 0 0 0 0 0    Sixth Secromicon Fragment
+/item 14 109 0 0 0 0 0 0 0 0    Complete Secromicon
+/item 14 110 0 0 0 0 0 0 0 0    Sign of Dimensions
+/item 14 111 0 0 0 0 0 0 0 0    Mirror of Dimensions
+/item 14 112 0 0 0 0 0 0 0 0    Silver Key
+/item 14 113 0 0 0 0 0 0 0 0    Gold Key
+/item 14 114 0 0 0 0 0 0 0 0    Master Skill Reset
+/item 14 115 0 0 0 0 0 0 0 0    Item 14-115
+/item 14 116 0 0 0 0 0 0 0 0    Item 14-116
+/item 14 117 0 0 0 0 0 0 0 0    Item 14-117
+/item 14 118 0 0 0 0 0 0 0 0    Item 14-118
+/item 14 119 0 0 0 0 0 0 0 0    Item 14-119
+/item 14 120 0 0 0 0 0 0 0 0    Item 14-120
+/item 14 121 0 0 0 0 0 0 0 0    Item 14-121
+/item 14 122 0 0 0 0 0 0 0 0    Item 14-122
+/item 14 123 0 0 0 0 0 0 0 0    Item 14-123
+/item 14 124 0 0 0 0 0 0 0 0    Item 14-124
+/item 14 125 0 0 0 0 0 0 0 0    Item 14-125
+/item 14 126 0 0 0 0 0 0 0 0    Item 14-126
+/item 14 127 0 0 0 0 0 0 0 0    Item 14-127
+/item 14 128 0 0 0 0 0 0 0 0    Item 14-128
+/item 14 129 0 0 0 0 0 0 0 0    Item 14-129
+/item 14 130 0 0 0 0 0 0 0 0    Item 14-130
+/item 14 131 0 0 0 0 0 0 0 0    Item 14-131
+/item 14 132 0 0 0 0 0 0 0 0    Item 14-132
+/item 14 133 0 0 0 0 0 0 0 0    Item 14-133
+/item 14 134 0 0 0 0 0 0 0 0    Item 14-134
+/item 14 135 0 0 0 0 0 0 0 0    Item 14-135
+/item 14 136 0 0 0 0 0 0 0 0    Item 14-136
+/item 14 137 0 0 0 0 0 0 0 0    Item 14-137
+/item 14 138 0 0 0 0 0 0 0 0    Item 14-138
+/item 14 139 0 0 0 0 0 0 0 0    Item 14-139
+/item 14 140 0 0 0 0 0 0 0 0    Item 14-140
+/item 14 141 0 0 0 0 0 0 0 0    Item 14-141
+/item 14 142 0 0 0 0 0 0 0 0    Item 14-142
+/item 14 143 0 0 0 0 0 0 0 0    Item 14-143
+/item 14 144 0 0 0 0 0 0 0 0    Item 14-144
+/item 14 151 0 0 0 0 0 0 0 0    Item 14-151
+/item 14 152 0 0 0 0 0 0 0 0    Item 14-152
+/item 14 153 0 0 0 0 0 0 0 0    Item 14-153
+/item 14 154 0 0 0 0 0 0 0 0    Item 14-154
+/item 14 155 0 0 0 0 0 0 0 0    Item 14-155
+/item 14 156 0 0 0 0 0 0 0 0    Item 14-156
+/item 14 157 0 0 0 0 0 0 0 0    Item 14-157
+/item 14 158 0 0 0 0 0 0 0 0    Item 14-158
+/item 14 159 0 0 0 0 0 0 0 0    Item 14-159
+/item 14 160 0 0 0 0 0 0 0 0    Item 14-160
+/item 14 161 0 0 0 0 0 0 0 0    Item 14-161
+    
+/item 15 0 0 0 0 0 0 0 0 0     Scroll of Poison
+/item 15 1 0 0 0 0 0 0 0 0    Scroll of Meteorite
+/item 15 2 0 0 0 0 0 0 0 0    Scroll of Lighting
+/item 15 3 0 0 0 0 0 0 0 0    Scroll of Fire Ball
+/item 15 4 0 0 0 0 0 0 0 0    Scroll of Flame
+/item 15 5 0 0 0 0 0 0 0 0    Scroll of Teleport
+/item 15 6 0 0 0 0 0 0 0 0    Scroll of Ice
+/item 15 7 0 0 0 0 0 0 0 0    Scroll of Twister
+/item 15 8 0 0 0 0 0 0 0 0    Scroll of Evil Spirit
+/item 15 9 0 0 0 0 0 0 0 0    Scroll of Hellfire
+/item 15 10 0 0 0 0 0 0 0 0    Scroll of Power Wave
+/item 15 11 0 0 0 0 0 0 0 0    Scroll of Aqua Beam
+/item 15 12 0 0 0 0 0 0 0 0    Scroll of Cometfall
+/item 15 13 0 0 0 0 0 0 0 0    Scroll of Inferno
+/item 15 14 0 0 0 0 0 0 0 0    Scroll of Teleport Ally
+/item 15 15 0 0 0 0 0 0 0 0    Scroll of Soul Barrier
+/item 15 16 0 0 0 0 0 0 0 0    Scroll of Decay
+/item 15 17 0 0 0 0 0 0 0 0    Scroll of Ice Storm
+/item 15 18 0 0 0 0 0 0 0 0    Scroll of Nova
+/item 15 19 0 0 0 0 0 0 0 0    Chain Lightning Parchment
+/item 15 20 0 0 0 0 0 0 0 0    Drain Life Parchment
+/item 15 21 0 0 0 0 0 0 0 0    Lightning Shock Parchment
+/item 15 22 0 0 0 0 0 0 0 0    Damage Reflection Parchment
+/item 15 23 0 0 0 0 0 0 0 0    Berserker Parchment
+/item 15 24 0 0 0 0 0 0 0 0    Sleep Parchment
+/item 15 26 0 0 0 0 0 0 0 0    Weakness Parchment
+/item 15 27 0 0 0 0 0 0 0 0    Innovation Parchment
+/item 15 28 0 0 0 0 0 0 0 0    Scroll of Wizardry Enhance
+/item 15 29 0 0 0 0 0 0 0 0    Scroll of Gigantic Storm
+/item 15 30 0 0 0 0 0 0 0 0    Chain Driver Parchment
+/item 15 31 0 0 0 0 0 0 0 0    Dark Side Parchment
+/item 15 32 0 0 0 0 0 0 0 0    Dragon Lore Parchment
+/item 15 33 0 0 0 0 0 0 0 0    Dragon Slayer Parchment
+/item 15 34 0 0 0 0 0 0 0 0    Red Armor Ignore Parchment
+/item 15 35 0 0 0 0 0 0 0 0    Fitness Parchment
+/item 15 36 0 0 0 0 0 0 0 0    Defense Rate Parchment

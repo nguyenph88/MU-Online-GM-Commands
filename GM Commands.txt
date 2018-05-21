@@ -1,0 +1,56 @@
+; Allows to ban specified player from chatting, requires GM privileges, usage: /chatban <player_name> <time (minutes), 0 for permanent>
+ChatBan						= /chatban
+
+; [GM_ONLY_COMMAND] Allows to unban specified player from chatting, requires GM privileges, usage: /chatunban <player_name>
+UnbanChat					= /chatunban
+
+; [GM_ONLY_COMMAND Allows to ban specified account, usage: /banacc <account_name>
+BanAccCMD					= /banacc
+
+; [GM_ONLY_COMMAND Allows to unban specified account, usage: /unbanacc <account_name>
+UnBanAccCMD					= /unbanacc
+
+; [GM_ONLY_COMMAND Allows to unban specified character, usage: /banchar <player_name>
+BanCharCMD					= /banchar
+
+; [GM_ONLY_COMMAND Allows to unban specified character, usage: /unbanchar <player_name>
+UnBanCharCMD				= /unbanchar
+; Allows to display server information: Server Time, Server Name, Server Code, Players Online, usage: /srvinfo
+SvInfoCMD					= /srvinfo
+
+; Allows to display character info: Account Name, Character Name, Character Level, Class Code, Swear Warning Level, Map, Wife/Husband Online Status
+; usage: /charinfo
+CharInfoCMD					= /charinfo
+
+; [GM_ONLY_COMMAND] Allows to activate hide status for Game Master so players cannot see him, requires GM privileges, usage: /hide
+HideCMD						= /hide
+
+; [GM_ONLY_COMMAND] Allows to deactivate hide status for Game Master so players can see him, requires GM privileges, usage: /unhide
+UnHideCMD					= /unhide
+; [GM_ONLY_COMMAND] Allows to change skin, requires valid privileges to use this command, refer to IGC.EssentialTool, GM Management
+; usage /skin <monster_number>
+SkinCMD						= /skin
+; [GM_ONLY_COMMAND] Allows to watch specified player, requires GM Privileges, usage: /watch <player_name>
+WatchCMD					= /watch
+
+; [GM_ONLY_COMMAND] Allows to move yourself to specified player, requires GM Privileges, usage: /trace <player_name>
+TraceCMD					= /trace
+
+; [GM_ONLY_COMMAND] Allows to disconnect specified player, requires GM privileges, usage: /dc <player_name>
+DisconnectCMD				= /dc
+
+; Allows to disconnect specified character knowing their character name and account password, usage: /dcfriend <player_name> <password> 
+DCFriendCMD					= /dcfriend
+
+; [GM_ONLY_COMMAND] Allows to disconnect whole guild, requires GM privileges, usage /gdc <guild_name>
+GuildDCCMD					= /gdc
+
+; [GM_ONLY_COMMAND] Allows to relocate specified character to specified destination, requires GM privileges
+; usage: /move <player_name> <map_number> <cord_x> <cord_y>
+MoveCMD						= /move
+
+; [GM_ONLY_COMMAND] Allows to relocate specified guild to specified destination, requires GM privileges
+; usage: /gmove <guild_name> <map_number> <cord_x> <cord_y>
+MoveGuild					= /gmove
+; [GM_ONLY_COMMAND] Allow to drop item in game, requires Administrator (ctlcode = 32) and privileges to use Item Drop command
+; usage: /item <item_group> <item_index> <item_level> <skill> <luck> <option> <exc> <setitem> <periodtime> <socketslot> <socketbonus/attribute> <muunevolutionitemcat> <muunevolutionitemindex>
